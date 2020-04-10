@@ -1,0 +1,2518 @@
+target;NOMBRE_CELDA_DESTINO;source;NOMBRE_CELDA_ORIGEN;weight
+001A;Montesinos, Los y Algorfa;023A;Almoradí;110
+001A;Montesinos, Los y Algorfa;058A;Rojales;241
+001A;Montesinos, Los y Algorfa;097A;Torrevieja (distrito 01);143
+001V;Daimús y otros municipios;002V;Bellreguard y otros municipios;445
+001V;Daimús y otros municipios;049V;Oliva y otros municipios;162
+001V;Daimús y otros municipios;093V;Gandia (distrito 04);121
+001V;Daimús y otros municipios;142V;Gandia (distrito 02);201
+002A;Formentera del Segura y otros municipios;001A;Montesinos, Los y Algorfa;107
+002A;Formentera del Segura y otros municipios;023A;Almoradí;363
+002A;Formentera del Segura y otros municipios;058A;Rojales;1359
+002V;Bellreguard y otros municipios;001V;Daimús y otros municipios;250
+002V;Bellreguard y otros municipios;005V;Font d'En Carròs, la y otros municipios;136
+002V;Bellreguard y otros municipios;049V;Oliva y otros municipios;667
+002V;Bellreguard y otros municipios;142V;Gandia (distrito 02);131
+003A;Bigastro y Jacarilla;021A;Orihuela (distrito 08) y Rafal;101
+003A;Bigastro y Jacarilla;092A;Orihuela (distrito 06);107
+003V;Gandia (distritos 01 y 03);001V;Daimús y otros municipios;400
+003V;Gandia (distritos 01 y 03);002V;Bellreguard y otros municipios;358
+003V;Gandia (distritos 01 y 03);004V;Vilallonga/Villalonga y Ador;129
+003V;Gandia (distritos 01 y 03);005V;Font d'En Carròs, la y otros municipios;175
+003V;Gandia (distritos 01 y 03);006V;Real de Gandía y otros municipios;406
+003V;Gandia (distritos 01 y 03);049V;Oliva y otros municipios;370
+003V;Gandia (distritos 01 y 03);051V;Gandia (distrito 07) y Benirredrà;331
+003V;Gandia (distritos 01 y 03);075V;Gandia (distrito 06);817
+003V;Gandia (distritos 01 y 03);089V;Gandia (distrito 05);816
+003V;Gandia (distritos 01 y 03);093V;Gandia (distrito 04);525
+003V;Gandia (distritos 01 y 03);107V;Tavernes de la Valldigna;122
+003V;Gandia (distritos 01 y 03);142V;Gandia (distrito 02);1810
+004A;Cox y otros municipios;005A;Albatera y San Isidro;522
+004A;Cox y otros municipios;031A;Callosa de Segura;1138
+004A;Cox y otros municipios;034A;Catral;142
+004A;Cox y otros municipios;057A;Redován;246
+004A;Cox y otros municipios;090A;Orihuela (distrito 04);126
+004A;Cox y otros municipios;093A;Orihuela (distrito 07);170
+004V;Vilallonga/Villalonga y Ador;005V;Font d'En Carròs, la y otros municipios;163
+004V;Vilallonga/Villalonga y Ador;006V;Real de Gandía y otros municipios;155
+005A;Albatera y San Isidro;004A;Cox y otros municipios;252
+005A;Albatera y San Isidro;031A;Callosa de Segura;211
+005A;Albatera y San Isidro;034A;Catral;102
+005A;Albatera y San Isidro;036A;Crevillent;260
+005V;Font d'En Carròs, la y otros municipios;004V;Vilallonga/Villalonga y Ador;244
+005V;Font d'En Carròs, la y otros municipios;006V;Real de Gandía y otros municipios;355
+005V;Font d'En Carròs, la y otros municipios;049V;Oliva y otros municipios;187
+006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;025A;Aspe;280
+006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;03MU;Abanilla;108
+006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;048A;Novelda;535
+006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;093A;Orihuela (distrito 07);134
+006V;Real de Gandía y otros municipios;002V;Bellreguard y otros municipios;169
+006V;Real de Gandía y otros municipios;003V;Gandia (distritos 01 y 03);173
+006V;Real de Gandía y otros municipios;004V;Vilallonga/Villalonga y Ador;281
+006V;Real de Gandía y otros municipios;005V;Font d'En Carròs, la y otros municipios;272
+006V;Real de Gandía y otros municipios;049V;Oliva y otros municipios;165
+006V;Real de Gandía y otros municipios;051V;Gandia (distrito 07) y Benirredrà;348
+006V;Real de Gandía y otros municipios;075V;Gandia (distrito 06);1080
+006V;Real de Gandía y otros municipios;089V;Gandia (distrito 05);172
+006V;Real de Gandía y otros municipios;142V;Gandia (distrito 02);200
+007A;Sax y Salinas;008A;Elda (distritos 02 y 03);102
+007A;Sax y Salinas;054A;Petrer;311
+007A;Sax y Salinas;064A;Villena;260
+007A;Sax y Salinas;085A;Elda (distrito 04);222
+007V;Simat de la Valldigna y Benifairó de la Valldigna;107V;Tavernes de la Valldigna;249
+008A;Elda (distritos 02 y 03);007A;Sax y Salinas;149
+008A;Elda (distritos 02 y 03);046A;Monóvar/Monòver;535
+008A;Elda (distritos 02 y 03);048A;Novelda;139
+008A;Elda (distritos 02 y 03);054A;Petrer;1381
+008A;Elda (distritos 02 y 03);064A;Villena;127
+008A;Elda (distritos 02 y 03);084A;Elda (distrito 01);978
+008A;Elda (distritos 02 y 03);085A;Elda (distrito 04);3295
+008A;Elda (distritos 02 y 03);086A;Elda (distrito 05);658
+008V;Manuel y otros municipios;009V;Pobla Llarga, la y otros municipios;267
+008V;Manuel y otros municipios;062V;Villanueva de Castellón;128
+009V;Pobla Llarga, la y otros municipios;008V;Manuel y otros municipios;245
+009V;Pobla Llarga, la y otros municipios;062V;Villanueva de Castellón;417
+009V;Pobla Llarga, la y otros municipios;123V;Carcaixent;138
+010A;Biar y otros municipios;026A;Banyeres de Mariola;159
+010A;Biar y otros municipios;064A;Villena;378
+010V;Genovés y otros municipios;008V;Manuel y otros municipios;243
+010V;Genovés y otros municipios;056V;Benigànim;106
+010V;Genovés y otros municipios;151V;Xàtiva;164
+011A;Busot y otros municipios;032A;Campello, el;116
+011A;Busot y otros municipios;063A;Villajoyosa/Vila Joiosa, la;249
+011V;Llutxent y otros municipios;007V;Simat de la Valldigna y Benifairó de la Valldigna;255
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;013A;Benilloba y otros municipios;202
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;015A;Muro de Alcoy y otros municipios;262
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;035A;Cocentaina;518
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;042A;Ibi;168
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;066A;Alcoy/Alcoi (distrito 01);383
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;067A;Alcoy/Alcoi (distrito 02);1226
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;068A;Alcoy/Alcoi (distrito 03);2858
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;069A;Alcoy/Alcoi (distrito 04);1293
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;070A;Alcoy/Alcoi (distrito 05);605
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;071A;Alcoy/Alcoi (distrito 06);584
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;072A;Alcoy/Alcoi (distrito 07);2306
+012V;Xeraco y Xeresa;093V;Gandia (distrito 04);105
+012V;Xeraco y Xeresa;107V;Tavernes de la Valldigna;236
+012V;Xeraco y Xeresa;142V;Gandia (distrito 02);134
+013A;Benilloba y otros municipios;011A;Busot y otros municipios;283
+013A;Benilloba y otros municipios;014A;Beniarrés y otros municipios;105
+013A;Benilloba y otros municipios;035A;Cocentaina;207
+013V;Corbera y otros municipios;014V;Albalat de la Ribera y otros municipios;234
+013V;Corbera y otros municipios;147V;Sueca;246
+014A;Beniarrés y otros municipios;004V;Vilallonga/Villalonga y Ador;101
+014A;Beniarrés y otros municipios;015A;Muro de Alcoy y otros municipios;534
+014A;Beniarrés y otros municipios;035A;Cocentaina;107
+014V;Albalat de la Ribera y otros municipios;013V;Corbera y otros municipios;180
+014V;Albalat de la Ribera y otros municipios;147V;Sueca;302
+015A;Muro de Alcoy y otros municipios;012A;Alcoy/Alcoi (distrito 08) y Benifallim;102
+015A;Muro de Alcoy y otros municipios;014A;Beniarrés y otros municipios;207
+015A;Muro de Alcoy y otros municipios;035A;Cocentaina;317
+015A;Muro de Alcoy y otros municipios;052V;Bocairent;163
+015A;Muro de Alcoy y otros municipios;159V;Ontinyent;118
+015V;Albal y Beniparrell;046V;Alfafar y Llocnou de la Corona;232
+015V;Albal y Beniparrell;077V;Massanassa;159
+015V;Albal y Beniparrell;079V;Alcàsser;231
+015V;Albal y Beniparrell;098V;Benetússer;174
+015V;Albal y Beniparrell;113V;Silla;440
+015V;Albal y Beniparrell;121V;Valencia (SCD Poblats del Sud);133
+015V;Albal y Beniparrell;125V;Picassent;242
+015V;Albal y Beniparrell;140V;Paiporta;285
+015V;Albal y Beniparrell;149V;Catarroja;1957
+015V;Albal y Beniparrell;158V;Valencia (SCD La Raiosa/L'Hort de Senabre);103
+015V;Albal y Beniparrell;162V;Torrent (distrito 03);141
+015V;Albal y Beniparrell;165V;Paterna;135
+016A;Verger, el y Poblets, els;017A;Beniarbeig y otros municipios;136
+016A;Verger, el y Poblets, els;037A;Dénia;401
+016A;Verger, el y Poblets, els;050A;Ondara;229
+016V;Riba-roja de Túria y Loriguilla;029V;Chiva y Godelleta;938
+016V;Riba-roja de Túria y Loriguilla;047V;Llíria y otros municipios;162
+016V;Riba-roja de Túria y Loriguilla;068V;Cheste;253
+016V;Riba-roja de Túria y Loriguilla;078V;Vilamarxant;205
+016V;Riba-roja de Túria y Loriguilla;083V;Benaguasil;179
+016V;Riba-roja de Túria y Loriguilla;101V;Torrent (distrito 04);124
+016V;Riba-roja de Túria y Loriguilla;109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);100
+016V;Riba-roja de Túria y Loriguilla;111V;Eliana, l';465
+016V;Riba-roja de Túria y Loriguilla;114V;Torrent (distrito 01);144
+016V;Riba-roja de Túria y Loriguilla;117V;Puçol;109
+016V;Riba-roja de Túria y Loriguilla;119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);106
+016V;Riba-roja de Túria y Loriguilla;121V;Valencia (SCD Poblats del Sud);100
+016V;Riba-roja de Túria y Loriguilla;126V;Moncada;122
+016V;Riba-roja de Túria y Loriguilla;128V;Valencia (SCD Malilla);142
+016V;Riba-roja de Túria y Loriguilla;129V;Valencia (SCD Ciutat Fallera);131
+016V;Riba-roja de Túria y Loriguilla;133V;Bétera;153
+016V;Riba-roja de Túria y Loriguilla;134V;Valencia (SCD Benicalap);136
+016V;Riba-roja de Túria y Loriguilla;135V;Pobla de Vallbona, la;399
+016V;Riba-roja de Túria y Loriguilla;137V;Quart de Poblet;360
+016V;Riba-roja de Túria y Loriguilla;138V;Valencia (SCD Patraix);120
+016V;Riba-roja de Túria y Loriguilla;139V;Valencia (SCD Aiora);101
+016V;Riba-roja de Túria y Loriguilla;140V;Paiporta;195
+016V;Riba-roja de Túria y Loriguilla;143V;Valencia (SCD Torrefiel);129
+016V;Riba-roja de Túria y Loriguilla;145V;Valencia (SCD Orriols/Sant llorenç);127
+016V;Riba-roja de Túria y Loriguilla;148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);118
+016V;Riba-roja de Túria y Loriguilla;149V;Catarroja;144
+016V;Riba-roja de Túria y Loriguilla;150V;Valencia (SCD Benimaclet);102
+016V;Riba-roja de Túria y Loriguilla;152V;Xirivella;278
+016V;Riba-roja de Túria y Loriguilla;153V;Alaquàs;334
+016V;Riba-roja de Túria y Loriguilla;155V;Manises;853
+016V;Riba-roja de Túria y Loriguilla;156V;Valencia (SCD Nou Moles/Soternes);189
+016V;Riba-roja de Túria y Loriguilla;157V;Aldaia;453
+016V;Riba-roja de Túria y Loriguilla;158V;Valencia (SCD La Raiosa/L'Hort de Senabre);110
+016V;Riba-roja de Túria y Loriguilla;160V;Burjassot;251
+016V;Riba-roja de Túria y Loriguilla;161V;Valencia (SCD Campanar);203
+016V;Riba-roja de Túria y Loriguilla;162V;Torrent (distrito 03);318
+016V;Riba-roja de Túria y Loriguilla;163V;Mislata;396
+016V;Riba-roja de Túria y Loriguilla;165V;Paterna;590
+017A;Beniarbeig y otros municipios;016A;Verger, el y Poblets, els;105
+017A;Beniarbeig y otros municipios;019A;Orba y otros municipios;284
+017A;Beniarbeig y otros municipios;037A;Dénia;144
+017A;Beniarbeig y otros municipios;050A;Ondara;160
+017A;Beniarbeig y otros municipios;053A;Pego;123
+017V;Bonrepòs i Mirambell y otros municipios;064V;Almàssera;489
+017V;Bonrepòs i Mirambell y otros municipios;065V;Foios;121
+017V;Bonrepòs i Mirambell y otros municipios;073V;Tavernes Blanques;104
+017V;Bonrepòs i Mirambell y otros municipios;082V;Meliana;180
+017V;Bonrepòs i Mirambell y otros municipios;126V;Moncada;779
+018A;Xaló y otros municipios;017A;Beniarbeig y otros municipios;107
+018A;Xaló y otros municipios;019A;Orba y otros municipios;109
+018A;Xaló y otros municipios;028A;Benissa;102
+018V;Albuixech y otros municipios;048V;Museros y Emperador;338
+018V;Albuixech y otros municipios;059V;Valencia (SCD Poblats del Nord);163
+018V;Albuixech y otros municipios;065V;Foios;504
+018V;Albuixech y otros municipios;082V;Meliana;473
+018V;Albuixech y otros municipios;104V;Massamagrell;480
+018V;Albuixech y otros municipios;126V;Moncada;115
+018V;Albuixech y otros municipios;136V;Alboraya;145
+018V;Albuixech y otros municipios;165V;Paterna;110
+019A;Orba y otros municipios;018A;Xaló y otros municipios;107
+019A;Orba y otros municipios;030A;Callosa d'en Sarrià;522
+019V;Serra y otros municipios;047V;Llíria y otros municipios;410
+019V;Serra y otros municipios;133V;Bétera;105
+019V;Serra y otros municipios;135V;Pobla de Vallbona, la;255
+019V;Serra y otros municipios;147V;Sueca;194
+01CS;Morella y otros municipios;07CS;Villafranca del Cid/Vilafranca y otros municipios;106
+020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;028A;Benissa;474
+020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;029A;Calp;170
+020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;037A;Dénia;147
+020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;043A;Jávea/Xàbia;594
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;021V;Benifairó de les Valls y otros municipios;188
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;022V;Sagunto/Sagunt (distritos 04, 05 y 08);158
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;023V;Estivella y otros municipios;205
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;105V;Sagunto/Sagunt (distrito 03);578
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;117V;Puçol;616
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;131V;Sagunto/Sagunt (distrito 07);135
+021A;Orihuela (distrito 08) y Rafal;003A;Bigastro y Jacarilla;314
+021A;Orihuela (distrito 08) y Rafal;004A;Cox y otros municipios;209
+021A;Orihuela (distrito 08) y Rafal;023A;Almoradí;229
+021A;Orihuela (distrito 08) y Rafal;027A;Benejúzar;182
+021A;Orihuela (distrito 08) y Rafal;031A;Callosa de Segura;494
+021A;Orihuela (distrito 08) y Rafal;057A;Redován;515
+021A;Orihuela (distrito 08) y Rafal;087A;Orihuela (distrito 01);183
+021A;Orihuela (distrito 08) y Rafal;088A;Orihuela (distrito 02);304
+021A;Orihuela (distrito 08) y Rafal;089A;Orihuela (distrito 03);163
+021A;Orihuela (distrito 08) y Rafal;090A;Orihuela (distrito 04);482
+021A;Orihuela (distrito 08) y Rafal;092A;Orihuela (distrito 06);355
+021A;Orihuela (distrito 08) y Rafal;093A;Orihuela (distrito 07);137
+021V;Benifairó de les Valls y otros municipios;020V;Sagunto/Sagunt (distrito 01) y otros municipios;313
+021V;Benifairó de les Valls y otros municipios;16CS;Almenara y Llosa, la;252
+022A;Alfàs del Pi, l';024A;Altea;850
+022A;Alfàs del Pi, l';049A;Nucia, la;1167
+022A;Alfàs del Pi, l';063A;Villajoyosa/Vila Joiosa, la;251
+022A;Alfàs del Pi, l';074A;Benidorm (distrito 02);217
+022A;Alfàs del Pi, l';075A;Benidorm (distrito 03);215
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);020V;Sagunto/Sagunt (distrito 01) y otros municipios;742
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);021V;Benifairó de les Valls y otros municipios;511
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);023V;Estivella y otros municipios;209
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);060V;Canet d'En Berenguer;612
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);069V;Puig de Santa Maria, el;153
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);105V;Sagunto/Sagunt (distrito 03);3254
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);108V;Sagunto/Sagunt (distrito 06);1234
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);117V;Puçol;447
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);131V;Sagunto/Sagunt (distrito 07);2120
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);16CS;Almenara y Llosa, la;205
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);30CS;Vall d'Uixó, la;100
+023A;Almoradí;001A;Montesinos, Los y Algorfa;463
+023A;Almoradí;002A;Formentera del Segura y otros municipios;307
+023A;Almoradí;027A;Benejúzar;110
+023A;Almoradí;031A;Callosa de Segura;205
+023A;Almoradí;034A;Catral;164
+023A;Almoradí;038A;Dolores;230
+023A;Almoradí;058A;Rojales;347
+023V;Estivella y otros municipios;020V;Sagunto/Sagunt (distrito 01) y otros municipios;265
+024A;Altea;022A;Alfàs del Pi, l';1221
+024A;Altea;028A;Benissa;117
+024A;Altea;029A;Calp;267
+024A;Altea;030A;Callosa d'en Sarrià;201
+024A;Altea;049A;Nucia, la;700
+024A;Altea;063A;Villajoyosa/Vila Joiosa, la;248
+024A;Altea;074A;Benidorm (distrito 02);102
+024A;Altea;075A;Benidorm (distrito 03);181
+024V;Pedralba y otros municipios;025V;Villar del Arzobispo y otros municipios;133
+024V;Pedralba y otros municipios;047V;Llíria y otros municipios;213
+024V;Pedralba y otros municipios;078V;Vilamarxant;109
+024V;Pedralba y otros municipios;083V;Benaguasil;150
+025A;Aspe;006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;164
+025A;Aspe;045A;Monforte del Cid;283
+025A;Aspe;048A;Novelda;624
+025A;Aspe;077A;Elche/Elx (distrito 01);136
+025A;Aspe;078A;Elche/Elx (distrito 02);115
+025A;Aspe;079A;Elche/Elx (distrito 03);152
+025A;Aspe;080A;Elche/Elx (distrito 04);142
+025A;Aspe;081A;Elche/Elx (distrito 05);110
+025A;Aspe;082A;Elche/Elx (secciones 001 a 022 del distrito 06);131
+025A;Aspe;083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);106
+025V;Villar del Arzobispo y otros municipios;047V;Llíria y otros municipios;175
+026A;Banyeres de Mariola;010A;Biar y otros municipios;213
+026A;Banyeres de Mariola;064A;Villena;118
+027A;Benejúzar;021A;Orihuela (distrito 08) y Rafal;205
+027A;Benejúzar;023A;Almoradí;136
+027A;Benejúzar;088A;Orihuela (distrito 02);501
+027A;Benejúzar;090A;Orihuela (distrito 04);164
+027V;Chelva y otros municipios;025V;Villar del Arzobispo y otros municipios;103
+027V;Chelva y otros municipios;047V;Llíria y otros municipios;109
+028A;Benissa;018A;Xaló y otros municipios;335
+028A;Benissa;020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;708
+028A;Benissa;029A;Calp;606
+028A;Benissa;043A;Jávea/Xàbia;102
+028V;Venta del Moro y otros municipios;086V;Utiel;236
+028V;Venta del Moro y otros municipios;120V;Requena;136
+029A;Calp;020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;248
+029A;Calp;024A;Altea;266
+029A;Calp;028A;Benissa;598
+029V;Chiva y Godelleta;016V;Riba-roja de Túria y Loriguilla;200
+029V;Chiva y Godelleta;061V;Turís;492
+029V;Chiva y Godelleta;068V;Cheste;709
+029V;Chiva y Godelleta;076V;Buñol;220
+029V;Chiva y Godelleta;101V;Torrent (distrito 04);310
+029V;Chiva y Godelleta;157V;Aldaia;243
+029V;Chiva y Godelleta;162V;Torrent (distrito 03);130
+029V;Chiva y Godelleta;165V;Paterna;120
+02CS;Traiguera y otros municipios;03CS;Càlig y otros municipios;288
+02CS;Traiguera y otros municipios;31CS;Vinaròs;374
+02CS;Traiguera y otros municipios;41TA;Sénia, La;1977
+030A;Callosa d'en Sarrià;024A;Altea;105
+030A;Callosa d'en Sarrià;049A;Nucia, la;147
+030A;Callosa d'en Sarrià;056A;Polop;292
+030V;Catadau y otros municipios;031V;Llombai y otros municipios;447
+030V;Catadau y otros municipios;050V;Alberic y otros municipios;158
+030V;Catadau y otros municipios;088V;Alcúdia, l';192
+030V;Catadau y otros municipios;103V;Carlet;505
+030V;Catadau y otros municipios;123V;Carcaixent;315
+030V;Catadau y otros municipios;146V;Algemesí;142
+030V;Catadau y otros municipios;164V;Alzira;607
+031A;Callosa de Segura;004A;Cox y otros municipios;444
+031A;Callosa de Segura;005A;Albatera y San Isidro;112
+031A;Callosa de Segura;021A;Orihuela (distrito 08) y Rafal;437
+031A;Callosa de Segura;023A;Almoradí;137
+031A;Callosa de Segura;034A;Catral;344
+031A;Callosa de Segura;057A;Redován;232
+031V;Llombai y otros municipios;030V;Catadau y otros municipios;508
+031V;Llombai y otros municipios;045V;Montserrat y Montroi/Montroy;301
+031V;Llombai y otros municipios;095V;Alginet;121
+031V;Llombai y otros municipios;103V;Carlet;169
+032A;Campello, el;011A;Busot y otros municipios;134
+032A;Campello, el;047A;Mutxamel;361
+032A;Campello, el;060A;Sant Joan d'Alacant;583
+032A;Campello, el;094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);108
+032A;Campello, el;103A;Alicante (SCD Number 3-A);103
+032A;Campello, el;106A;Alicante (SCD Number 4-A);122
+032A;Campello, el;107A;Alicante (SCD Number 4-B);411
+032A;Campello, el;108A;Alicante (SCD Number 4-C);375
+032A;Campello, el;109A;Alicante (SCD Number 5-A);100
+032A;Campello, el;112A;Alicante (SCD Number 6-B);130
+032V;Yátova y otros municipios;076V;Buñol;418
+033A;Castalla;042A;Ibi;388
+033A;Castalla;051A;Onil;769
+033V;Cofrentes y otros municipios;055V;Ayora;326
+033V;Cofrentes y otros municipios;120V;Requena;271
+033V;Cofrentes y otros municipios;18AB;Almansa;283
+034A;Catral;023A;Almoradí;218
+034A;Catral;036A;Crevillent;100
+034A;Catral;038A;Dolores;539
+034V;Navarrés y otros municipios;038V;Enguera y Chella;143
+035A;Cocentaina;012A;Alcoy/Alcoi (distrito 08) y Benifallim;504
+035A;Cocentaina;013A;Benilloba y otros municipios;117
+035A;Cocentaina;015A;Muro de Alcoy y otros municipios;636
+035A;Cocentaina;066A;Alcoy/Alcoi (distrito 01);125
+035A;Cocentaina;067A;Alcoy/Alcoi (distrito 02);143
+035A;Cocentaina;068A;Alcoy/Alcoi (distrito 03);224
+035A;Cocentaina;069A;Alcoy/Alcoi (distrito 04);245
+035A;Cocentaina;070A;Alcoy/Alcoi (distrito 05);126
+035A;Cocentaina;071A;Alcoy/Alcoi (distrito 06);122
+035A;Cocentaina;072A;Alcoy/Alcoi (distrito 07);618
+035V;Alcàntera de Xúquer y otros municipios;036V;Anna y otros municipios;142
+036A;Crevillent;005A;Albatera y San Isidro;737
+036A;Crevillent;031A;Callosa de Segura;105
+036A;Crevillent;034A;Catral;516
+036A;Crevillent;038A;Dolores;105
+036A;Crevillent;062A;Santa Pola;116
+036A;Crevillent;077A;Elche/Elx (distrito 01);216
+036A;Crevillent;078A;Elche/Elx (distrito 02);248
+036A;Crevillent;079A;Elche/Elx (distrito 03);403
+036A;Crevillent;080A;Elche/Elx (distrito 04);397
+036A;Crevillent;081A;Elche/Elx (distrito 05);255
+036A;Crevillent;082A;Elche/Elx (secciones 001 a 022 del distrito 06);381
+036A;Crevillent;083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);379
+036V;Anna y otros municipios;035V;Alcàntera de Xúquer y otros municipios;202
+036V;Anna y otros municipios;038V;Enguera y Chella;129
+037A;Dénia;016A;Verger, el y Poblets, els;640
+037A;Dénia;017A;Beniarbeig y otros municipios;383
+037A;Dénia;040A;Gata de Gorgos;307
+037A;Dénia;043A;Jávea/Xàbia;663
+037A;Dénia;049V;Oliva y otros municipios;282
+037A;Dénia;050A;Ondara;655
+037A;Dénia;052A;Pedreguer;716
+037A;Dénia;053A;Pego;410
+037A;Dénia;142V;Gandia (distrito 02);115
+037V;Llosa de Ranes, la y otros municipios;054V;Alcúdia de Crespins, l';114
+037V;Llosa de Ranes, la y otros municipios;096V;Canals;278
+037V;Llosa de Ranes, la y otros municipios;151V;Xàtiva;839
+038A;Dolores;002A;Formentera del Segura y otros municipios;288
+038A;Dolores;023A;Almoradí;331
+038A;Dolores;034A;Catral;270
+038V;Enguera y Chella;034V;Navarrés y otros municipios;151
+038V;Enguera y Chella;036V;Anna y otros municipios;271
+039A;Finestrat;022A;Alfàs del Pi, l';182
+039A;Finestrat;024A;Altea;124
+039A;Finestrat;049A;Nucia, la;377
+039A;Finestrat;063A;Villajoyosa/Vila Joiosa, la;1399
+039A;Finestrat;073A;Benidorm (distrito 01);135
+039A;Finestrat;074A;Benidorm (distrito 02);144
+039A;Finestrat;075A;Benidorm (distrito 03);278
+039A;Finestrat;076A;Benidorm (distrito 04);725
+039V;Mogente/Moixent y otros municipios;010A;Biar y otros municipios;195
+039V;Mogente/Moixent y otros municipios;040V;Aielo de Malferit y otros municipios;229
+039V;Mogente/Moixent y otros municipios;064A;Villena;101
+039V;Mogente/Moixent y otros municipios;159V;Ontinyent;166
+03CS;Càlig y otros municipios;04CS;Coves de Vinromà, les y otros municipios;141
+03CS;Càlig y otros municipios;31CS;Vinaròs;197
+040A;Gata de Gorgos;018A;Xaló y otros municipios;108
+040A;Gata de Gorgos;037A;Dénia;113
+040A;Gata de Gorgos;043A;Jávea/Xàbia;137
+040A;Gata de Gorgos;052A;Pedreguer;170
+040V;Aielo de Malferit y otros municipios;054V;Alcúdia de Crespins, l';141
+040V;Aielo de Malferit y otros municipios;067V;Olleria, l';218
+040V;Aielo de Malferit y otros municipios;096V;Canals;205
+040V;Aielo de Malferit y otros municipios;159V;Ontinyent;476
+041A;Guardamar del Segura;023A;Almoradí;103
+041A;Guardamar del Segura;058A;Rojales;813
+041A;Guardamar del Segura;059A;San Fulgencio;259
+041A;Guardamar del Segura;097A;Torrevieja (distrito 01);582
+041A;Guardamar del Segura;099A;Torrevieja (distrito 03);193
+041V;Albaida y otros municipios;040V;Aielo de Malferit y otros municipios;166
+041V;Albaida y otros municipios;044V;Montaverner y otros municipios;537
+041V;Albaida y otros municipios;067V;Olleria, l';740
+041V;Albaida y otros municipios;159V;Ontinyent;1090
+042A;Ibi;009A;Agost y Tibi;106
+042A;Ibi;012A;Alcoy/Alcoi (distrito 08) y Benifallim;103
+042A;Ibi;033A;Castalla;665
+042A;Ibi;051A;Onil;263
+042V;Rótova y otros municipios;006V;Real de Gandía y otros municipios;125
+042V;Rótova y otros municipios;011V;Llutxent y otros municipios;195
+042V;Rótova y otros municipios;051V;Gandia (distrito 07) y Benirredrà;115
+043A;Jávea/Xàbia;014A;Beniarrés y otros municipios;237
+043A;Jávea/Xàbia;020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;945
+043A;Jávea/Xàbia;028A;Benissa;142
+043A;Jávea/Xàbia;037A;Dénia;954
+043A;Jávea/Xàbia;040A;Gata de Gorgos;313
+043A;Jávea/Xàbia;050A;Ondara;118
+043A;Jávea/Xàbia;052A;Pedreguer;210
+043V;Pobla del Duc, la y otros municipios;011V;Llutxent y otros municipios;103
+043V;Pobla del Duc, la y otros municipios;014A;Beniarrés y otros municipios;130
+043V;Pobla del Duc, la y otros municipios;056V;Benigànim;277
+044A;Jijona/Xixona;011A;Busot y otros municipios;146
+044A;Jijona/Xixona;047A;Mutxamel;209
+044V;Montaverner y otros municipios;041V;Albaida y otros municipios;563
+044V;Montaverner y otros municipios;043V;Pobla del Duc, la y otros municipios;286
+044V;Montaverner y otros municipios;056V;Benigànim;187
+044V;Montaverner y otros municipios;067V;Olleria, l';387
+044V;Montaverner y otros municipios;159V;Ontinyent;239
+045A;Monforte del Cid;009A;Agost y Tibi;108
+045A;Monforte del Cid;025A;Aspe;289
+045A;Monforte del Cid;048A;Novelda;639
+045V;Montserrat y Montroi/Montroy;031V;Llombai y otros municipios;550
+045V;Montserrat y Montroi/Montroy;125V;Picassent;180
+046A;Monóvar/Monòver;008A;Elda (distritos 02 y 03);166
+046A;Monóvar/Monòver;048A;Novelda;102
+046A;Monóvar/Monòver;054A;Petrer;183
+046A;Monóvar/Monòver;055A;Pinós, el/Pinoso;148
+046A;Monóvar/Monòver;085A;Elda (distrito 04);174
+046V;Alfafar y Llocnou de la Corona;015V;Albal y Beniparrell;115
+046V;Alfafar y Llocnou de la Corona;077V;Massanassa;342
+046V;Alfafar y Llocnou de la Corona;080V;Sedaví;1031
+046V;Alfafar y Llocnou de la Corona;098V;Benetússer;1547
+046V;Alfafar y Llocnou de la Corona;121V;Valencia (SCD Poblats del Sud);241
+046V;Alfafar y Llocnou de la Corona;140V;Paiporta;1102
+046V;Alfafar y Llocnou de la Corona;149V;Catarroja;219
+047A;Mutxamel;011A;Busot y otros municipios;187
+047A;Mutxamel;032A;Campello, el;443
+047A;Mutxamel;060A;Sant Joan d'Alacant;925
+047A;Mutxamel;094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);156
+047A;Mutxamel;096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);210
+047A;Mutxamel;106A;Alicante (SCD Number 4-A);338
+047A;Mutxamel;108A;Alicante (SCD Number 4-C);155
+047V;Llíria y otros municipios;016V;Riba-roja de Túria y Loriguilla;111
+047V;Llíria y otros municipios;019V;Serra y otros municipios;473
+047V;Llíria y otros municipios;024V;Pedralba y otros municipios;152
+047V;Llíria y otros municipios;025V;Villar del Arzobispo y otros municipios;986
+047V;Llíria y otros municipios;027V;Chelva y otros municipios;208
+047V;Llíria y otros municipios;078V;Vilamarxant;175
+047V;Llíria y otros municipios;083V;Benaguasil;591
+047V;Llíria y otros municipios;111V;Eliana, l';171
+047V;Llíria y otros municipios;133V;Bétera;136
+047V;Llíria y otros municipios;135V;Pobla de Vallbona, la;611
+047V;Llíria y otros municipios;160V;Burjassot;113
+047V;Llíria y otros municipios;161V;Valencia (SCD Campanar);114
+047V;Llíria y otros municipios;163V;Mislata;101
+047V;Llíria y otros municipios;165V;Paterna;245
+048A;Novelda;006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;154
+048A;Novelda;025A;Aspe;691
+048A;Novelda;045A;Monforte del Cid;607
+048A;Novelda;046A;Monóvar/Monòver;235
+048A;Novelda;054A;Petrer;299
+048A;Novelda;085A;Elda (distrito 04);221
+048V;Museros y Emperador;018V;Albuixech y otros municipios;544
+048V;Museros y Emperador;071V;Rafelbunyol;242
+048V;Museros y Emperador;104V;Massamagrell;982
+048V;Museros y Emperador;126V;Moncada;127
+049A;Nucia, la;022A;Alfàs del Pi, l';598
+049A;Nucia, la;024A;Altea;525
+049A;Nucia, la;030A;Callosa d'en Sarrià;350
+049A;Nucia, la;056A;Polop;670
+049A;Nucia, la;063A;Villajoyosa/Vila Joiosa, la;169
+049A;Nucia, la;075A;Benidorm (distrito 03);179
+049V;Oliva y otros municipios;001V;Daimús y otros municipios;203
+049V;Oliva y otros municipios;002V;Bellreguard y otros municipios;566
+049V;Oliva y otros municipios;003V;Gandia (distritos 01 y 03);191
+049V;Oliva y otros municipios;004V;Vilallonga/Villalonga y Ador;105
+049V;Oliva y otros municipios;005V;Font d'En Carròs, la y otros municipios;460
+049V;Oliva y otros municipios;006V;Real de Gandía y otros municipios;223
+049V;Oliva y otros municipios;016A;Verger, el y Poblets, els;142
+049V;Oliva y otros municipios;037A;Dénia;186
+049V;Oliva y otros municipios;053A;Pego;906
+049V;Oliva y otros municipios;075V;Gandia (distrito 06);105
+049V;Oliva y otros municipios;089V;Gandia (distrito 05);204
+049V;Oliva y otros municipios;093V;Gandia (distrito 04);137
+049V;Oliva y otros municipios;142V;Gandia (distrito 02);337
+04CS;Coves de Vinromà, les y otros municipios;05CS;Cabanes y otros municipios;132
+050A;Ondara;016A;Verger, el y Poblets, els;480
+050A;Ondara;017A;Beniarbeig y otros municipios;345
+050A;Ondara;037A;Dénia;291
+050A;Ondara;052A;Pedreguer;174
+050V;Alberic y otros municipios;030V;Catadau y otros municipios;202
+050V;Alberic y otros municipios;062V;Villanueva de Castellón;129
+050V;Alberic y otros municipios;088V;Alcúdia, l';100
+050V;Alberic y otros municipios;164V;Alzira;249
+051A;Onil;033A;Castalla;583
+051A;Onil;042A;Ibi;228
+051V;Gandia (distrito 07) y Benirredrà;089V;Gandia (distrito 05);208
+052A;Pedreguer;017A;Beniarbeig y otros municipios;174
+052A;Pedreguer;037A;Dénia;327
+052A;Pedreguer;040A;Gata de Gorgos;326
+052A;Pedreguer;043A;Jávea/Xàbia;105
+052A;Pedreguer;050A;Ondara;444
+052V;Bocairent;159V;Ontinyent;243
+053A;Pego;049V;Oliva y otros municipios;142
+053V;Sollana;072V;Almussafes;541
+053V;Sollana;087V;Benifaió;290
+053V;Sollana;147V;Sueca;141
+054A;Petrer;007A;Sax y Salinas;225
+054A;Petrer;008A;Elda (distritos 02 y 03);438
+054A;Petrer;046A;Monóvar/Monòver;182
+054A;Petrer;048A;Novelda;182
+054A;Petrer;064A;Villena;106
+054A;Petrer;084A;Elda (distrito 01);410
+054A;Petrer;085A;Elda (distrito 04);1867
+054A;Petrer;086A;Elda (distrito 05);1080
+054V;Alcúdia de Crespins, l';096V;Canals;414
+055A;Pinós, el/Pinoso;046A;Monóvar/Monòver;100
+055A;Pinós, el/Pinoso;36MU;Yecla;100
+055V;Ayora;033V;Cofrentes y otros municipios;126
+056A;Polop;030A;Callosa d'en Sarrià;361
+056A;Polop;049A;Nucia, la;452
+056V;Benigànim;011V;Llutxent y otros municipios;119
+057A;Redován;021A;Orihuela (distrito 08) y Rafal;144
+057A;Redován;031A;Callosa de Segura;127
+057V;Guadassuar;088V;Alcúdia, l';217
+058A;Rojales;001A;Montesinos, Los y Algorfa;983
+058A;Rojales;002A;Formentera del Segura y otros municipios;1395
+058A;Rojales;023A;Almoradí;271
+058A;Rojales;041A;Guardamar del Segura;147
+058A;Rojales;059A;San Fulgencio;139
+058A;Rojales;097A;Torrevieja (distrito 01);107
+058A;Rojales;098A;Torrevieja (distrito 02);119
+058A;Rojales;099A;Torrevieja (distrito 03);132
+058V;Náquera;071V;Rafelbunyol;319
+058V;Náquera;104V;Massamagrell;112
+058V;Náquera;133V;Bétera;204
+059A;San Fulgencio;041A;Guardamar del Segura;171
+059A;San Fulgencio;058A;Rojales;234
+059V;Valencia (SCD Poblats del Nord);017V;Bonrepòs i Mirambell y otros municipios;114
+059V;Valencia (SCD Poblats del Nord);063V;Rocafort;265
+059V;Valencia (SCD Poblats del Nord);073V;Tavernes Blanques;713
+059V;Valencia (SCD Poblats del Nord);126V;Moncada;134
+059V;Valencia (SCD Poblats del Nord);129V;Valencia (SCD Ciutat Fallera);218
+059V;Valencia (SCD Poblats del Nord);143V;Valencia (SCD Torrefiel);219
+059V;Valencia (SCD Poblats del Nord);145V;Valencia (SCD Orriols/Sant llorenç);112
+05CS;Cabanes y otros municipios;06CS;Vall d'Alba y otros municipios;143
+05CS;Cabanes y otros municipios;26CS;Oropesa del Mar/Orpesa;155
+060A;Sant Joan d'Alacant;032A;Campello, el;1031
+060A;Sant Joan d'Alacant;047A;Mutxamel;1054
+060A;Sant Joan d'Alacant;094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);201
+060A;Sant Joan d'Alacant;096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);108
+060A;Sant Joan d'Alacant;100A;Alicante (SCD Number 1);127
+060A;Sant Joan d'Alacant;101A;Alicante (SCD Number 2-A);110
+060A;Sant Joan d'Alacant;102A;Alicante (SCD Number 2-B);147
+060A;Sant Joan d'Alacant;103A;Alicante (SCD Number 3-A);109
+060A;Sant Joan d'Alacant;104A;Alicante (SCD Number 3-B);116
+060A;Sant Joan d'Alacant;105A;Alicante (SCD Number 3-C);112
+060A;Sant Joan d'Alacant;106A;Alicante (SCD Number 4-A);199
+060A;Sant Joan d'Alacant;107A;Alicante (SCD Number 4-B);358
+060A;Sant Joan d'Alacant;108A;Alicante (SCD Number 4-C);458
+060A;Sant Joan d'Alacant;111A;Alicante (SCD Number 6-A);127
+060A;Sant Joan d'Alacant;112A;Alicante (SCD Number 6-B);178
+060A;Sant Joan d'Alacant;116A;Alicante (SCD Number 8-B);123
+060V;Canet d'En Berenguer;022V;Sagunto/Sagunt (distritos 04, 05 y 08);154
+060V;Canet d'En Berenguer;108V;Sagunto/Sagunt (distrito 06);103
+060V;Canet d'En Berenguer;131V;Sagunto/Sagunt (distrito 07);678
+061A;San Miguel de Salinas;001A;Montesinos, Los y Algorfa;213
+061A;San Miguel de Salinas;091A;Orihuela (distrito 05);189
+061A;San Miguel de Salinas;098A;Torrevieja (distrito 02);149
+061V;Turís;029V;Chiva y Godelleta;109
+061V;Turís;045V;Montserrat y Montroi/Montroy;157
+062A;Santa Pola;041A;Guardamar del Segura;133
+062A;Santa Pola;077A;Elche/Elx (distrito 01);137
+062A;Santa Pola;078A;Elche/Elx (distrito 02);153
+062A;Santa Pola;080A;Elche/Elx (distrito 04);105
+062A;Santa Pola;081A;Elche/Elx (distrito 05);116
+062A;Santa Pola;082A;Elche/Elx (secciones 001 a 022 del distrito 06);185
+062A;Santa Pola;083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);660
+062V;Villanueva de Castellón;009V;Pobla Llarga, la y otros municipios;159
+062V;Villanueva de Castellón;050V;Alberic y otros municipios;133
+063A;Villajoyosa/Vila Joiosa, la;011A;Busot y otros municipios;181
+063A;Villajoyosa/Vila Joiosa, la;022A;Alfàs del Pi, l';135
+063A;Villajoyosa/Vila Joiosa, la;024A;Altea;102
+063A;Villajoyosa/Vila Joiosa, la;032A;Campello, el;153
+063A;Villajoyosa/Vila Joiosa, la;039A;Finestrat;452
+063A;Villajoyosa/Vila Joiosa, la;049A;Nucia, la;186
+063A;Villajoyosa/Vila Joiosa, la;073A;Benidorm (distrito 01);124
+063A;Villajoyosa/Vila Joiosa, la;075A;Benidorm (distrito 03);249
+063A;Villajoyosa/Vila Joiosa, la;076A;Benidorm (distrito 04);416
+063V;Rocafort;094V;Godella;123
+063V;Rocafort;126V;Moncada;106
+064A;Villena;007A;Sax y Salinas;197
+064A;Villena;010A;Biar y otros municipios;391
+064A;Villena;054A;Petrer;171
+064A;Villena;19AB;Caudete;360
+064A;Villena;36MU;Yecla;154
+064V;Almàssera;082V;Meliana;114
+064V;Almàssera;136V;Alboraya;100
+065A;Pilar de la Horadada;091A;Orihuela (distrito 05);348
+065A;Pilar de la Horadada;30MU;San Javier;237
+065A;Pilar de la Horadada;31MU;San Pedro del Pinatar;868
+065V;Foios;017V;Bonrepòs i Mirambell y otros municipios;303
+065V;Foios;018V;Albuixech y otros municipios;313
+065V;Foios;048V;Museros y Emperador;118
+065V;Foios;082V;Meliana;324
+066A;Alcoy/Alcoi (distrito 01);012A;Alcoy/Alcoi (distrito 08) y Benifallim;650
+066A;Alcoy/Alcoi (distrito 01);015A;Muro de Alcoy y otros municipios;177
+066A;Alcoy/Alcoi (distrito 01);035A;Cocentaina;224
+066A;Alcoy/Alcoi (distrito 01);067A;Alcoy/Alcoi (distrito 02);843
+066A;Alcoy/Alcoi (distrito 01);068A;Alcoy/Alcoi (distrito 03);506
+066A;Alcoy/Alcoi (distrito 01);069A;Alcoy/Alcoi (distrito 04);1450
+066A;Alcoy/Alcoi (distrito 01);070A;Alcoy/Alcoi (distrito 05);787
+066A;Alcoy/Alcoi (distrito 01);071A;Alcoy/Alcoi (distrito 06);771
+066A;Alcoy/Alcoi (distrito 01);072A;Alcoy/Alcoi (distrito 07);1164
+066V;Pobla de Farnals, la;071V;Rafelbunyol;242
+066V;Pobla de Farnals, la;104V;Massamagrell;509
+067A;Alcoy/Alcoi (distrito 02);012A;Alcoy/Alcoi (distrito 08) y Benifallim;215
+067A;Alcoy/Alcoi (distrito 02);066A;Alcoy/Alcoi (distrito 01);321
+067A;Alcoy/Alcoi (distrito 02);068A;Alcoy/Alcoi (distrito 03);533
+067A;Alcoy/Alcoi (distrito 02);069A;Alcoy/Alcoi (distrito 04);182
+067A;Alcoy/Alcoi (distrito 02);072A;Alcoy/Alcoi (distrito 07);103
+067V;Olleria, l';044V;Montaverner y otros municipios;175
+067V;Olleria, l';151V;Xàtiva;103
+067V;Olleria, l';159V;Ontinyent;165
+068A;Alcoy/Alcoi (distrito 03);067A;Alcoy/Alcoi (distrito 02);313
+068A;Alcoy/Alcoi (distrito 03);069A;Alcoy/Alcoi (distrito 04);1054
+068V;Cheste;029V;Chiva y Godelleta;813
+068V;Cheste;076V;Buñol;131
+068V;Cheste;078V;Vilamarxant;115
+068V;Cheste;153V;Alaquàs;111
+068V;Cheste;157V;Aldaia;129
+068V;Cheste;162V;Torrent (distrito 03);108
+068V;Cheste;165V;Paterna;146
+069A;Alcoy/Alcoi (distrito 04);067A;Alcoy/Alcoi (distrito 02);142
+069V;Puig de Santa Maria, el;066V;Pobla de Farnals, la;614
+069V;Puig de Santa Maria, el;071V;Rafelbunyol;543
+069V;Puig de Santa Maria, el;104V;Massamagrell;180
+069V;Puig de Santa Maria, el;117V;Puçol;994
+06CS;Vall d'Alba y otros municipios;05CS;Cabanes y otros municipios;142
+06CS;Vall d'Alba y otros municipios;13CS;Borriol y otros municipios;365
+06CS;Vall d'Alba y otros municipios;19CS;Alcora, l';110
+06CS;Vall d'Alba y otros municipios;34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);128
+06CS;Vall d'Alba y otros municipios;36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);140
+06CS;Vall d'Alba y otros municipios;37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);103
+070A;Alcoy/Alcoi (distrito 05);012A;Alcoy/Alcoi (distrito 08) y Benifallim;161
+070A;Alcoy/Alcoi (distrito 05);067A;Alcoy/Alcoi (distrito 02);129
+070A;Alcoy/Alcoi (distrito 05);068A;Alcoy/Alcoi (distrito 03);203
+070A;Alcoy/Alcoi (distrito 05);069A;Alcoy/Alcoi (distrito 04);1258
+070A;Alcoy/Alcoi (distrito 05);071A;Alcoy/Alcoi (distrito 06);1227
+070V;San Antonio de Benagéber;111V;Eliana, l';234
+070V;San Antonio de Benagéber;133V;Bétera;105
+070V;San Antonio de Benagéber;135V;Pobla de Vallbona, la;210
+070V;San Antonio de Benagéber;165V;Paterna;501
+071A;Alcoy/Alcoi (distrito 06);070A;Alcoy/Alcoi (distrito 05);228
+071V;Rafelbunyol;066V;Pobla de Farnals, la;402
+071V;Rafelbunyol;069V;Puig de Santa Maria, el;120
+071V;Rafelbunyol;104V;Massamagrell;237
+072A;Alcoy/Alcoi (distrito 07);012A;Alcoy/Alcoi (distrito 08) y Benifallim;332
+072V;Almussafes;015V;Albal y Beniparrell;175
+072V;Almussafes;053V;Sollana;193
+072V;Almussafes;079V;Alcàsser;108
+072V;Almussafes;087V;Benifaió;1006
+072V;Almussafes;095V;Alginet;260
+072V;Almussafes;113V;Silla;347
+072V;Almussafes;123V;Carcaixent;104
+072V;Almussafes;125V;Picassent;329
+072V;Almussafes;127V;Cullera;179
+072V;Almussafes;140V;Paiporta;175
+072V;Almussafes;141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);118
+072V;Almussafes;146V;Algemesí;272
+072V;Almussafes;147V;Sueca;269
+072V;Almussafes;149V;Catarroja;232
+072V;Almussafes;152V;Xirivella;113
+072V;Almussafes;153V;Alaquàs;103
+072V;Almussafes;158V;Valencia (SCD La Raiosa/L'Hort de Senabre);110
+072V;Almussafes;161V;Valencia (SCD Campanar);138
+072V;Almussafes;162V;Torrent (distrito 03);201
+072V;Almussafes;163V;Mislata;128
+072V;Almussafes;164V;Alzira;243
+072V;Almussafes;165V;Paterna;195
+073A;Benidorm (distrito 01);022A;Alfàs del Pi, l';224
+073A;Benidorm (distrito 01);049A;Nucia, la;320
+073A;Benidorm (distrito 01);063A;Villajoyosa/Vila Joiosa, la;374
+073A;Benidorm (distrito 01);074A;Benidorm (distrito 02);758
+073A;Benidorm (distrito 01);075A;Benidorm (distrito 03);1238
+073A;Benidorm (distrito 01);076A;Benidorm (distrito 04);333
+073V;Tavernes Blanques;064V;Almàssera;467
+073V;Tavernes Blanques;136V;Alboraya;136
+073V;Tavernes Blanques;145V;Valencia (SCD Orriols/Sant llorenç);180
+074A;Benidorm (distrito 02);022A;Alfàs del Pi, l';746
+074A;Benidorm (distrito 02);024A;Altea;294
+074A;Benidorm (distrito 02);039A;Finestrat;171
+074A;Benidorm (distrito 02);049A;Nucia, la;601
+074A;Benidorm (distrito 02);056A;Polop;146
+074A;Benidorm (distrito 02);063A;Villajoyosa/Vila Joiosa, la;785
+074A;Benidorm (distrito 02);073A;Benidorm (distrito 01);893
+074A;Benidorm (distrito 02);075A;Benidorm (distrito 03);2197
+074A;Benidorm (distrito 02);076A;Benidorm (distrito 04);270
+074V;Torrent (distrito 02);101V;Torrent (distrito 04);211
+074V;Torrent (distrito 02);114V;Torrent (distrito 01);1746
+074V;Torrent (distrito 02);162V;Torrent (distrito 03);2061
+075A;Benidorm (distrito 03);022A;Alfàs del Pi, l';386
+075A;Benidorm (distrito 03);024A;Altea;143
+075A;Benidorm (distrito 03);039A;Finestrat;118
+075A;Benidorm (distrito 03);049A;Nucia, la;1458
+075A;Benidorm (distrito 03);063A;Villajoyosa/Vila Joiosa, la;473
+075A;Benidorm (distrito 03);073A;Benidorm (distrito 01);2177
+075A;Benidorm (distrito 03);074A;Benidorm (distrito 02);471
+075A;Benidorm (distrito 03);076A;Benidorm (distrito 04);379
+075V;Gandia (distrito 06);003V;Gandia (distritos 01 y 03);235
+075V;Gandia (distrito 06);051V;Gandia (distrito 07) y Benirredrà;268
+075V;Gandia (distrito 06);089V;Gandia (distrito 05);274
+075V;Gandia (distrito 06);142V;Gandia (distrito 02);130
+076A;Benidorm (distrito 04);022A;Alfàs del Pi, l';142
+076A;Benidorm (distrito 04);039A;Finestrat;440
+076A;Benidorm (distrito 04);049A;Nucia, la;240
+076A;Benidorm (distrito 04);063A;Villajoyosa/Vila Joiosa, la;509
+076A;Benidorm (distrito 04);073A;Benidorm (distrito 01);621
+076A;Benidorm (distrito 04);074A;Benidorm (distrito 02);200
+076A;Benidorm (distrito 04);075A;Benidorm (distrito 03);1134
+076V;Buñol;029V;Chiva y Godelleta;282
+076V;Buñol;032V;Yátova y otros municipios;399
+076V;Buñol;061V;Turís;106
+077A;Elche/Elx (distrito 01);036A;Crevillent;130
+077A;Elche/Elx (distrito 01);062A;Santa Pola;221
+077A;Elche/Elx (distrito 01);078A;Elche/Elx (distrito 02);1457
+077A;Elche/Elx (distrito 01);079A;Elche/Elx (distrito 03);1532
+077A;Elche/Elx (distrito 01);080A;Elche/Elx (distrito 04);460
+077A;Elche/Elx (distrito 01);081A;Elche/Elx (distrito 05);741
+077A;Elche/Elx (distrito 01);082A;Elche/Elx (secciones 001 a 022 del distrito 06);512
+077A;Elche/Elx (distrito 01);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);650
+077V;Massanassa;015V;Albal y Beniparrell;125
+077V;Massanassa;046V;Alfafar y Llocnou de la Corona;924
+077V;Massanassa;098V;Benetússer;114
+077V;Massanassa;140V;Paiporta;175
+077V;Massanassa;149V;Catarroja;1876
+078A;Elche/Elx (distrito 02);036A;Crevillent;272
+078A;Elche/Elx (distrito 02);062A;Santa Pola;562
+078A;Elche/Elx (distrito 02);077A;Elche/Elx (distrito 01);3712
+078A;Elche/Elx (distrito 02);079A;Elche/Elx (distrito 03);748
+078A;Elche/Elx (distrito 02);080A;Elche/Elx (distrito 04);709
+078A;Elche/Elx (distrito 02);081A;Elche/Elx (distrito 05);1574
+078A;Elche/Elx (distrito 02);082A;Elche/Elx (secciones 001 a 022 del distrito 06);2096
+078A;Elche/Elx (distrito 02);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);1134
+078V;Vilamarxant;016V;Riba-roja de Túria y Loriguilla;197
+078V;Vilamarxant;083V;Benaguasil;365
+079A;Elche/Elx (distrito 03);025A;Aspe;131
+079A;Elche/Elx (distrito 03);036A;Crevillent;149
+079A;Elche/Elx (distrito 03);077A;Elche/Elx (distrito 01);785
+079A;Elche/Elx (distrito 03);078A;Elche/Elx (distrito 02);503
+079A;Elche/Elx (distrito 03);080A;Elche/Elx (distrito 04);2900
+079A;Elche/Elx (distrito 03);081A;Elche/Elx (distrito 05);833
+079A;Elche/Elx (distrito 03);082A;Elche/Elx (secciones 001 a 022 del distrito 06);722
+079A;Elche/Elx (distrito 03);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);643
+079V;Alcàsser;113V;Silla;118
+079V;Alcàsser;125V;Picassent;438
+07CS;Villafranca del Cid/Vilafranca y otros municipios;06CS;Vall d'Alba y otros municipios;256
+080A;Elche/Elx (distrito 04);036A;Crevillent;120
+080A;Elche/Elx (distrito 04);062A;Santa Pola;117
+080A;Elche/Elx (distrito 04);077A;Elche/Elx (distrito 01);282
+080A;Elche/Elx (distrito 04);078A;Elche/Elx (distrito 02);174
+080A;Elche/Elx (distrito 04);079A;Elche/Elx (distrito 03);2368
+080A;Elche/Elx (distrito 04);081A;Elche/Elx (distrito 05);1054
+080A;Elche/Elx (distrito 04);082A;Elche/Elx (secciones 001 a 022 del distrito 06);453
+080A;Elche/Elx (distrito 04);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);423
+080V;Sedaví;046V;Alfafar y Llocnou de la Corona;1144
+080V;Sedaví;121V;Valencia (SCD Poblats del Sud);310
+081A;Elche/Elx (distrito 05);036A;Crevillent;114
+081A;Elche/Elx (distrito 05);062A;Santa Pola;298
+081A;Elche/Elx (distrito 05);077A;Elche/Elx (distrito 01);897
+081A;Elche/Elx (distrito 05);078A;Elche/Elx (distrito 02);1150
+081A;Elche/Elx (distrito 05);079A;Elche/Elx (distrito 03);919
+081A;Elche/Elx (distrito 05);080A;Elche/Elx (distrito 04);1166
+081A;Elche/Elx (distrito 05);082A;Elche/Elx (secciones 001 a 022 del distrito 06);828
+081A;Elche/Elx (distrito 05);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);363
+081V;Valencia (SCD Marxalenes);110V;Valencia (SCD Morvedre/Trinitat);149
+081V;Valencia (SCD Marxalenes);112V;Valencia (SCD Tormos/Sant Antoni);540
+081V;Valencia (SCD Marxalenes);129V;Valencia (SCD Ciutat Fallera);123
+081V;Valencia (SCD Marxalenes);134V;Valencia (SCD Benicalap);693
+081V;Valencia (SCD Marxalenes);161V;Valencia (SCD Campanar);641
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);036A;Crevillent;117
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);062A;Santa Pola;118
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);077A;Elche/Elx (distrito 01);382
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);078A;Elche/Elx (distrito 02);925
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);079A;Elche/Elx (distrito 03);355
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);080A;Elche/Elx (distrito 04);369
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);081A;Elche/Elx (distrito 05);1675
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);319
+082V;Meliana;017V;Bonrepòs i Mirambell y otros municipios;125
+082V;Meliana;018V;Albuixech y otros municipios;182
+082V;Meliana;064V;Almàssera;109
+082V;Meliana;065V;Foios;373
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);004A;Cox y otros municipios;102
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);005A;Albatera y San Isidro;256
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;170
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);023A;Almoradí;176
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);025A;Aspe;569
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);031A;Callosa de Segura;154
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);032A;Campello, el;216
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);034A;Catral;221
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);036A;Crevillent;2056
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);038A;Dolores;112
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);041A;Guardamar del Segura;183
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);045A;Monforte del Cid;263
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);047A;Mutxamel;215
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);048A;Novelda;265
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);054A;Petrer;278
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);059A;San Fulgencio;403
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);060A;Sant Joan d'Alacant;235
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);062A;Santa Pola;2641
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);077A;Elche/Elx (distrito 01);3077
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);078A;Elche/Elx (distrito 02);4485
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);079A;Elche/Elx (distrito 03);4186
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);080A;Elche/Elx (distrito 04);4122
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);081A;Elche/Elx (distrito 05);3226
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);082A;Elche/Elx (secciones 001 a 022 del distrito 06);4206
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);085A;Elda (distrito 04);167
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);274
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);114
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);177
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);099A;Torrevieja (distrito 03);114
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);100A;Alicante (SCD Number 1);291
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);101A;Alicante (SCD Number 2-A);228
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);102A;Alicante (SCD Number 2-B);116
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);103A;Alicante (SCD Number 3-A);155
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);104A;Alicante (SCD Number 3-B);112
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);105A;Alicante (SCD Number 3-C);208
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);106A;Alicante (SCD Number 4-A);178
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);107A;Alicante (SCD Number 4-B);217
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);108A;Alicante (SCD Number 4-C);502
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);109A;Alicante (SCD Number 5-A);159
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);110A;Alicante (SCD Number 5-B);151
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);111A;Alicante (SCD Number 6-A);349
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);112A;Alicante (SCD Number 6-B);341
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);113A;Alicante (SCD Number 7-A);262
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);114A;Alicante (SCD Number 7-B);105
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);115A;Alicante (SCD Number 8-A);167
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);116A;Alicante (SCD Number 8-B);814
+083V;Benaguasil;016V;Riba-roja de Túria y Loriguilla;125
+083V;Benaguasil;047V;Llíria y otros municipios;240
+083V;Benaguasil;078V;Vilamarxant;165
+083V;Benaguasil;135V;Pobla de Vallbona, la;291
+084A;Elda (distrito 01);008A;Elda (distritos 02 y 03);310
+084A;Elda (distrito 01);054A;Petrer;662
+084A;Elda (distrito 01);085A;Elda (distrito 04);284
+084A;Elda (distrito 01);086A;Elda (distrito 05);508
+084V;Valencia (SCD El Botànic/La Roqueta);100V;Valencia (SCD La Petxina);207
+084V;Valencia (SCD El Botànic/La Roqueta);115V;Valencia (SCD El Pla del Remei/Gran Via);109
+084V;Valencia (SCD El Botànic/La Roqueta);130V;Valencia (SCD Arrancapins);565
+084V;Valencia (SCD El Botànic/La Roqueta);132V;Valencia (SCD Russafa);223
+084V;Valencia (SCD El Botànic/La Roqueta);138V;Valencia (SCD Patraix);166
+084V;Valencia (SCD El Botànic/La Roqueta);144V;Valencia (SCD Ciutat Vella);850
+084V;Valencia (SCD El Botànic/La Roqueta);154V;Valencia (SCD El Pla del Real);116
+084V;Valencia (SCD El Botànic/La Roqueta);156V;Valencia (SCD Nou Moles/Soternes);140
+084V;Valencia (SCD El Botànic/La Roqueta);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);198
+084V;Valencia (SCD El Botànic/La Roqueta);160V;Burjassot;115
+084V;Valencia (SCD El Botànic/La Roqueta);161V;Valencia (SCD Campanar);272
+084V;Valencia (SCD El Botànic/La Roqueta);163V;Mislata;145
+084V;Valencia (SCD El Botànic/La Roqueta);165V;Paterna;137
+085A;Elda (distrito 04);008A;Elda (distritos 02 y 03);517
+085A;Elda (distrito 04);046A;Monóvar/Monòver;105
+085A;Elda (distrito 04);054A;Petrer;902
+085A;Elda (distrito 04);084A;Elda (distrito 01);222
+085A;Elda (distrito 04);086A;Elda (distrito 05);2573
+085V;Picanya;140V;Paiporta;1535
+085V;Picanya;162V;Torrent (distrito 03);112
+086A;Elda (distrito 05);008A;Elda (distritos 02 y 03);316
+086A;Elda (distrito 05);054A;Petrer;1682
+086A;Elda (distrito 05);085A;Elda (distrito 04);1368
+086V;Utiel;028V;Venta del Moro y otros municipios;164
+086V;Utiel;120V;Requena;561
+087A;Orihuela (distrito 01);088A;Orihuela (distrito 02);109
+087A;Orihuela (distrito 01);090A;Orihuela (distrito 04);124
+087V;Benifaió;072V;Almussafes;506
+087V;Benifaió;095V;Alginet;196
+087V;Benifaió;125V;Picassent;531
+088A;Orihuela (distrito 02);021A;Orihuela (distrito 08) y Rafal;212
+088A;Orihuela (distrito 02);087A;Orihuela (distrito 01);1533
+088A;Orihuela (distrito 02);089A;Orihuela (distrito 03);448
+088A;Orihuela (distrito 02);090A;Orihuela (distrito 04);413
+088A;Orihuela (distrito 02);092A;Orihuela (distrito 06);117
+088V;Alcúdia, l';030V;Catadau y otros municipios;169
+088V;Alcúdia, l';050V;Alberic y otros municipios;190
+088V;Alcúdia, l';057V;Guadassuar;1117
+088V;Alcúdia, l';095V;Alginet;165
+088V;Alcúdia, l';103V;Carlet;488
+088V;Alcúdia, l';123V;Carcaixent;121
+088V;Alcúdia, l';146V;Algemesí;236
+088V;Alcúdia, l';164V;Alzira;345
+089A;Orihuela (distrito 03);088A;Orihuela (distrito 02);258
+089A;Orihuela (distrito 03);090A;Orihuela (distrito 04);260
+089V;Gandia (distrito 05);003V;Gandia (distritos 01 y 03);301
+089V;Gandia (distrito 05);051V;Gandia (distrito 07) y Benirredrà;1449
+089V;Gandia (distrito 05);075V;Gandia (distrito 06);479
+089V;Gandia (distrito 05);093V;Gandia (distrito 04);128
+089V;Gandia (distrito 05);142V;Gandia (distrito 02);682
+08CS;Lucena del Cid y otros municipios;19CS;Alcora, l';147
+08CS;Lucena del Cid y otros municipios;25CS;Onda;121
+090A;Orihuela (distrito 04);087A;Orihuela (distrito 01);264
+090A;Orihuela (distrito 04);088A;Orihuela (distrito 02);400
+090A;Orihuela (distrito 04);089A;Orihuela (distrito 03);345
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);046V;Alfafar y Llocnou de la Corona;120
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);099V;Valencia (SCD La Creu del Grau);193
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);102V;Valencia (SCD El Grau/Natzaret);294
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);106
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);115V;Valencia (SCD El Pla del Remei/Gran Via);155
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);116V;Valencia (SCD Mont-Olivet);712
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);118V;Valencia (SCD En Corts/Na Rovella);726
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);153
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);121V;Valencia (SCD Poblats del Sud);325
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);122V;Valencia (SCD Safranar/Vara de Quart);109
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);154
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);128V;Valencia (SCD Malilla);314
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);129V;Valencia (SCD Ciutat Fallera);131
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);130V;Valencia (SCD Arrancapins);152
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);132V;Valencia (SCD Russafa);220
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);136V;Alboraya;139
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);138V;Valencia (SCD Patraix);152
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);139V;Valencia (SCD Aiora);291
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);140V;Paiporta;131
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);451
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);143V;Valencia (SCD Torrefiel);123
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);144V;Valencia (SCD Ciutat Vella);107
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);145V;Valencia (SCD Orriols/Sant llorenç);118
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);202
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);149V;Catarroja;158
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);150V;Valencia (SCD Benimaclet);150
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);154V;Valencia (SCD El Pla del Real);235
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);156V;Valencia (SCD Nou Moles/Soternes);125
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);197
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);160V;Burjassot;138
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);161V;Valencia (SCD Campanar);197
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);162V;Torrent (distrito 03);122
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);163V;Mislata;180
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);165V;Paterna;238
+091A;Orihuela (distrito 05);001A;Montesinos, Los y Algorfa;167
+091A;Orihuela (distrito 05);003A;Bigastro y Jacarilla;300
+091A;Orihuela (distrito 05);023A;Almoradí;169
+091A;Orihuela (distrito 05);058A;Rojales;111
+091A;Orihuela (distrito 05);061A;San Miguel de Salinas;716
+091A;Orihuela (distrito 05);065A;Pilar de la Horadada;459
+091A;Orihuela (distrito 05);097A;Torrevieja (distrito 01);415
+091A;Orihuela (distrito 05);098A;Torrevieja (distrito 02);1233
+091A;Orihuela (distrito 05);099A;Torrevieja (distrito 03);596
+091A;Orihuela (distrito 05);30MU;San Javier;132
+091A;Orihuela (distrito 05);31MU;San Pedro del Pinatar;170
+091V;Valencia (SCD Safranar/Favara);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);137
+091V;Valencia (SCD Safranar/Favara);122V;Valencia (SCD Safranar/Vara de Quart);180
+091V;Valencia (SCD Safranar/Favara);138V;Valencia (SCD Patraix);415
+091V;Valencia (SCD Safranar/Favara);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);1426
+092A;Orihuela (distrito 06);003A;Bigastro y Jacarilla;861
+092A;Orihuela (distrito 06);021A;Orihuela (distrito 08) y Rafal;187
+092A;Orihuela (distrito 06);087A;Orihuela (distrito 01);394
+092A;Orihuela (distrito 06);088A;Orihuela (distrito 02);720
+092A;Orihuela (distrito 06);089A;Orihuela (distrito 03);112
+092A;Orihuela (distrito 06);090A;Orihuela (distrito 04);122
+092A;Orihuela (distrito 06);091A;Orihuela (distrito 05);220
+092A;Orihuela (distrito 06);093A;Orihuela (distrito 07);432
+092A;Orihuela (distrito 06);11MU;Beniel;785
+092V;Valencia (SCD La Malva-rosa);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);151
+092V;Valencia (SCD La Malva-rosa);136V;Alboraya;123
+092V;Valencia (SCD La Malva-rosa);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);383
+092V;Valencia (SCD La Malva-rosa);150V;Valencia (SCD Benimaclet);137
+093A;Orihuela (distrito 07);004A;Cox y otros municipios;474
+093A;Orihuela (distrito 07);057A;Redován;103
+093A;Orihuela (distrito 07);088A;Orihuela (distrito 02);128
+093A;Orihuela (distrito 07);089A;Orihuela (distrito 03);171
+093A;Orihuela (distrito 07);092A;Orihuela (distrito 06);146
+093A;Orihuela (distrito 07);37MU;Santomera;115
+093V;Gandia (distrito 04);001V;Daimús y otros municipios;411
+093V;Gandia (distrito 04);002V;Bellreguard y otros municipios;137
+093V;Gandia (distrito 04);003V;Gandia (distritos 01 y 03);212
+093V;Gandia (distrito 04);006V;Real de Gandía y otros municipios;139
+093V;Gandia (distrito 04);012V;Xeraco y Xeresa;363
+093V;Gandia (distrito 04);049V;Oliva y otros municipios;211
+093V;Gandia (distrito 04);051V;Gandia (distrito 07) y Benirredrà;245
+093V;Gandia (distrito 04);075V;Gandia (distrito 06);312
+093V;Gandia (distrito 04);089V;Gandia (distrito 05);359
+093V;Gandia (distrito 04);107V;Tavernes de la Valldigna;112
+093V;Gandia (distrito 04);142V;Gandia (distrito 02);1392
+094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);705
+094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);556
+094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);116A;Alicante (SCD Number 8-B);115
+094V;Godella;059V;Valencia (SCD Poblats del Nord);198
+094V;Godella;063V;Rocafort;981
+094V;Godella;126V;Moncada;250
+094V;Godella;133V;Bétera;213
+094V;Godella;160V;Burjassot;1237
+094V;Godella;165V;Paterna;946
+095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);1166
+095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);683
+095V;Alginet;087V;Benifaió;448
+095V;Alginet;103V;Carlet;123
+095V;Alginet;146V;Algemesí;103
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);009A;Agost y Tibi;188
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);025A;Aspe;107
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);032A;Campello, el;342
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);036A;Crevillent;172
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);042A;Ibi;122
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);047A;Mutxamel;736
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);048A;Novelda;182
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);054A;Petrer;163
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);060A;Sant Joan d'Alacant;396
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);062A;Santa Pola;162
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);063A;Villajoyosa/Vila Joiosa, la;156
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);077A;Elche/Elx (distrito 01);192
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);078A;Elche/Elx (distrito 02);201
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);079A;Elche/Elx (distrito 03);155
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);080A;Elche/Elx (distrito 04);147
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);081A;Elche/Elx (distrito 05);188
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);082A;Elche/Elx (secciones 001 a 022 del distrito 06);202
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);227
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);4770
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);2391
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);100A;Alicante (SCD Number 1);322
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);101A;Alicante (SCD Number 2-A);312
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);102A;Alicante (SCD Number 2-B);285
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);103A;Alicante (SCD Number 3-A);367
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);104A;Alicante (SCD Number 3-B);177
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);105A;Alicante (SCD Number 3-C);293
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);106A;Alicante (SCD Number 4-A);574
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);107A;Alicante (SCD Number 4-B);274
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);108A;Alicante (SCD Number 4-C);600
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);109A;Alicante (SCD Number 5-A);546
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);110A;Alicante (SCD Number 5-B);281
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);111A;Alicante (SCD Number 6-A);498
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);112A;Alicante (SCD Number 6-B);743
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);113A;Alicante (SCD Number 7-A);288
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);114A;Alicante (SCD Number 7-B);130
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);115A;Alicante (SCD Number 8-A);173
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);116A;Alicante (SCD Number 8-B);738
+096V;Canals;037V;Llosa de Ranes, la y otros municipios;154
+096V;Canals;054V;Alcúdia de Crespins, l';739
+096V;Canals;151V;Xàtiva;537
+097A;Torrevieja (distrito 01);001A;Montesinos, Los y Algorfa;294
+097A;Torrevieja (distrito 01);023A;Almoradí;153
+097A;Torrevieja (distrito 01);041A;Guardamar del Segura;228
+097A;Torrevieja (distrito 01);058A;Rojales;372
+097A;Torrevieja (distrito 01);091A;Orihuela (distrito 05);275
+097A;Torrevieja (distrito 01);098A;Torrevieja (distrito 02);2643
+097A;Torrevieja (distrito 01);099A;Torrevieja (distrito 03);3743
+097V;Valencia (SCD Poblats de L'Oest);129V;Valencia (SCD Ciutat Fallera);150
+097V;Valencia (SCD Poblats de L'Oest);160V;Burjassot;776
+097V;Valencia (SCD Poblats de L'Oest);161V;Valencia (SCD Campanar);114
+097V;Valencia (SCD Poblats de L'Oest);165V;Paterna;323
+098A;Torrevieja (distrito 02);001A;Montesinos, Los y Algorfa;175
+098A;Torrevieja (distrito 02);058A;Rojales;166
+098A;Torrevieja (distrito 02);061A;San Miguel de Salinas;110
+098A;Torrevieja (distrito 02);091A;Orihuela (distrito 05);364
+098A;Torrevieja (distrito 02);097A;Torrevieja (distrito 01);1522
+098A;Torrevieja (distrito 02);099A;Torrevieja (distrito 03);540
+098V;Benetússer;046V;Alfafar y Llocnou de la Corona;523
+098V;Benetússer;140V;Paiporta;573
+099A;Torrevieja (distrito 03);001A;Montesinos, Los y Algorfa;105
+099A;Torrevieja (distrito 03);041A;Guardamar del Segura;112
+099A;Torrevieja (distrito 03);058A;Rojales;182
+099A;Torrevieja (distrito 03);091A;Orihuela (distrito 05);195
+099A;Torrevieja (distrito 03);097A;Torrevieja (distrito 01);1288
+099A;Torrevieja (distrito 03);098A;Torrevieja (distrito 02);637
+099V;Valencia (SCD La Creu del Grau);102V;Valencia (SCD El Grau/Natzaret);137
+099V;Valencia (SCD La Creu del Grau);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);101
+099V;Valencia (SCD La Creu del Grau);139V;Valencia (SCD Aiora);737
+099V;Valencia (SCD La Creu del Grau);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);729
+09CS;Soneja y otros municipios;10CS;Artana y otros municipios;151
+09CS;Soneja y otros municipios;28CS;Segorbe;769
+09CS;Soneja y otros municipios;30CS;Vall d'Uixó, la;545
+100A;Alicante (SCD Number 1);032A;Campello, el;694
+100A;Alicante (SCD Number 1);047A;Mutxamel;522
+100A;Alicante (SCD Number 1);060A;Sant Joan d'Alacant;587
+100A;Alicante (SCD Number 1);062A;Santa Pola;242
+100A;Alicante (SCD Number 1);077A;Elche/Elx (distrito 01);134
+100A;Alicante (SCD Number 1);078A;Elche/Elx (distrito 02);140
+100A;Alicante (SCD Number 1);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);236
+100A;Alicante (SCD Number 1);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);463
+100A;Alicante (SCD Number 1);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);299
+100A;Alicante (SCD Number 1);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);322
+100A;Alicante (SCD Number 1);101A;Alicante (SCD Number 2-A);2494
+100A;Alicante (SCD Number 1);102A;Alicante (SCD Number 2-B);908
+100A;Alicante (SCD Number 1);103A;Alicante (SCD Number 3-A);667
+100A;Alicante (SCD Number 1);104A;Alicante (SCD Number 3-B);522
+100A;Alicante (SCD Number 1);105A;Alicante (SCD Number 3-C);450
+100A;Alicante (SCD Number 1);106A;Alicante (SCD Number 4-A);419
+100A;Alicante (SCD Number 1);107A;Alicante (SCD Number 4-B);1104
+100A;Alicante (SCD Number 1);108A;Alicante (SCD Number 4-C);1659
+100A;Alicante (SCD Number 1);109A;Alicante (SCD Number 5-A);486
+100A;Alicante (SCD Number 1);110A;Alicante (SCD Number 5-B);419
+100A;Alicante (SCD Number 1);111A;Alicante (SCD Number 6-A);1211
+100A;Alicante (SCD Number 1);112A;Alicante (SCD Number 6-B);786
+100A;Alicante (SCD Number 1);113A;Alicante (SCD Number 7-A);1759
+100A;Alicante (SCD Number 1);114A;Alicante (SCD Number 7-B);239
+100A;Alicante (SCD Number 1);115A;Alicante (SCD Number 8-A);1604
+100A;Alicante (SCD Number 1);116A;Alicante (SCD Number 8-B);706
+100V;Valencia (SCD La Petxina);156V;Valencia (SCD Nou Moles/Soternes);399
+100V;Valencia (SCD La Petxina);161V;Valencia (SCD Campanar);396
+101A;Alicante (SCD Number 2-A);032A;Campello, el;138
+101A;Alicante (SCD Number 2-A);047A;Mutxamel;102
+101A;Alicante (SCD Number 2-A);060A;Sant Joan d'Alacant;126
+101A;Alicante (SCD Number 2-A);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);127
+101A;Alicante (SCD Number 2-A);100A;Alicante (SCD Number 1);507
+101A;Alicante (SCD Number 2-A);102A;Alicante (SCD Number 2-B);751
+101A;Alicante (SCD Number 2-A);103A;Alicante (SCD Number 3-A);331
+101A;Alicante (SCD Number 2-A);104A;Alicante (SCD Number 3-B);121
+101A;Alicante (SCD Number 2-A);105A;Alicante (SCD Number 3-C);127
+101A;Alicante (SCD Number 2-A);106A;Alicante (SCD Number 4-A);115
+101A;Alicante (SCD Number 2-A);107A;Alicante (SCD Number 4-B);111
+101A;Alicante (SCD Number 2-A);108A;Alicante (SCD Number 4-C);309
+101A;Alicante (SCD Number 2-A);109A;Alicante (SCD Number 5-A);121
+101A;Alicante (SCD Number 2-A);110A;Alicante (SCD Number 5-B);243
+101A;Alicante (SCD Number 2-A);111A;Alicante (SCD Number 6-A);1018
+101A;Alicante (SCD Number 2-A);112A;Alicante (SCD Number 6-B);223
+101A;Alicante (SCD Number 2-A);113A;Alicante (SCD Number 7-A);259
+101A;Alicante (SCD Number 2-A);115A;Alicante (SCD Number 8-A);157
+101A;Alicante (SCD Number 2-A);116A;Alicante (SCD Number 8-B);128
+101V;Torrent (distrito 04);015V;Albal y Beniparrell;159
+101V;Torrent (distrito 04);029V;Chiva y Godelleta;252
+101V;Torrent (distrito 04);045V;Montserrat y Montroi/Montroy;210
+101V;Torrent (distrito 04);074V;Torrent (distrito 02);419
+101V;Torrent (distrito 04);085V;Picanya;181
+101V;Torrent (distrito 04);114V;Torrent (distrito 01);1382
+101V;Torrent (distrito 04);125V;Picassent;185
+101V;Torrent (distrito 04);137V;Quart de Poblet;116
+101V;Torrent (distrito 04);140V;Paiporta;229
+101V;Torrent (distrito 04);149V;Catarroja;112
+101V;Torrent (distrito 04);152V;Xirivella;170
+101V;Torrent (distrito 04);153V;Alaquàs;915
+101V;Torrent (distrito 04);156V;Valencia (SCD Nou Moles/Soternes);109
+101V;Torrent (distrito 04);157V;Aldaia;362
+101V;Torrent (distrito 04);162V;Torrent (distrito 03);4711
+101V;Torrent (distrito 04);163V;Mislata;123
+101V;Torrent (distrito 04);165V;Paterna;154
+102A;Alicante (SCD Number 2-B);100A;Alicante (SCD Number 1);228
+102A;Alicante (SCD Number 2-B);101A;Alicante (SCD Number 2-A);773
+102A;Alicante (SCD Number 2-B);103A;Alicante (SCD Number 3-A);1083
+102A;Alicante (SCD Number 2-B);104A;Alicante (SCD Number 3-B);133
+102A;Alicante (SCD Number 2-B);105A;Alicante (SCD Number 3-C);118
+102A;Alicante (SCD Number 2-B);106A;Alicante (SCD Number 4-A);109
+102A;Alicante (SCD Number 2-B);108A;Alicante (SCD Number 4-C);177
+102A;Alicante (SCD Number 2-B);111A;Alicante (SCD Number 6-A);154
+102A;Alicante (SCD Number 2-B);112A;Alicante (SCD Number 6-B);116
+102A;Alicante (SCD Number 2-B);116A;Alicante (SCD Number 8-B);122
+102V;Valencia (SCD El Grau/Natzaret);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);158
+102V;Valencia (SCD El Grau/Natzaret);099V;Valencia (SCD La Creu del Grau);266
+102V;Valencia (SCD El Grau/Natzaret);139V;Valencia (SCD Aiora);350
+102V;Valencia (SCD El Grau/Natzaret);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);178
+102V;Valencia (SCD El Grau/Natzaret);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);582
+102V;Valencia (SCD El Grau/Natzaret);165V;Paterna;128
+103A;Alicante (SCD Number 3-A);101A;Alicante (SCD Number 2-A);427
+103A;Alicante (SCD Number 3-A);102A;Alicante (SCD Number 2-B);868
+103A;Alicante (SCD Number 3-A);104A;Alicante (SCD Number 3-B);747
+103A;Alicante (SCD Number 3-A);105A;Alicante (SCD Number 3-C);205
+103A;Alicante (SCD Number 3-A);106A;Alicante (SCD Number 4-A);149
+103A;Alicante (SCD Number 3-A);107A;Alicante (SCD Number 4-B);106
+103A;Alicante (SCD Number 3-A);108A;Alicante (SCD Number 4-C);150
+103A;Alicante (SCD Number 3-A);109A;Alicante (SCD Number 5-A);353
+103A;Alicante (SCD Number 3-A);110A;Alicante (SCD Number 5-B);304
+103A;Alicante (SCD Number 3-A);111A;Alicante (SCD Number 6-A);129
+103V;Carlet;030V;Catadau y otros municipios;393
+103V;Carlet;050V;Alberic y otros municipios;125
+103V;Carlet;088V;Alcúdia, l';505
+103V;Carlet;095V;Alginet;477
+103V;Carlet;123V;Carcaixent;113
+103V;Carlet;146V;Algemesí;161
+103V;Carlet;164V;Alzira;278
+104A;Alicante (SCD Number 3-B);100A;Alicante (SCD Number 1);159
+104A;Alicante (SCD Number 3-B);102A;Alicante (SCD Number 2-B);143
+104A;Alicante (SCD Number 3-B);103A;Alicante (SCD Number 3-A);688
+104A;Alicante (SCD Number 3-B);105A;Alicante (SCD Number 3-C);643
+104A;Alicante (SCD Number 3-B);106A;Alicante (SCD Number 4-A);161
+104A;Alicante (SCD Number 3-B);107A;Alicante (SCD Number 4-B);336
+104A;Alicante (SCD Number 3-B);108A;Alicante (SCD Number 4-C);183
+104A;Alicante (SCD Number 3-B);110A;Alicante (SCD Number 5-B);190
+104V;Massamagrell;018V;Albuixech y otros municipios;139
+104V;Massamagrell;048V;Museros y Emperador;367
+104V;Massamagrell;066V;Pobla de Farnals, la;319
+104V;Massamagrell;071V;Rafelbunyol;432
+105A;Alicante (SCD Number 3-C);103A;Alicante (SCD Number 3-A);1317
+105A;Alicante (SCD Number 3-C);104A;Alicante (SCD Number 3-B);776
+105A;Alicante (SCD Number 3-C);106A;Alicante (SCD Number 4-A);372
+105A;Alicante (SCD Number 3-C);107A;Alicante (SCD Number 4-B);215
+105A;Alicante (SCD Number 3-C);108A;Alicante (SCD Number 4-C);149
+105A;Alicante (SCD Number 3-C);110A;Alicante (SCD Number 5-B);140
+105V;Sagunto/Sagunt (distrito 03);020V;Sagunto/Sagunt (distrito 01) y otros municipios;200
+105V;Sagunto/Sagunt (distrito 03);022V;Sagunto/Sagunt (distritos 04, 05 y 08);436
+105V;Sagunto/Sagunt (distrito 03);131V;Sagunto/Sagunt (distrito 07);112
+106A;Alicante (SCD Number 4-A);047A;Mutxamel;289
+106A;Alicante (SCD Number 4-A);060A;Sant Joan d'Alacant;154
+106A;Alicante (SCD Number 4-A);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);150
+106A;Alicante (SCD Number 4-A);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);381
+106A;Alicante (SCD Number 4-A);103A;Alicante (SCD Number 3-A);563
+106A;Alicante (SCD Number 4-A);104A;Alicante (SCD Number 3-B);125
+106A;Alicante (SCD Number 4-A);105A;Alicante (SCD Number 3-C);805
+106A;Alicante (SCD Number 4-A);107A;Alicante (SCD Number 4-B);164
+106A;Alicante (SCD Number 4-A);108A;Alicante (SCD Number 4-C);191
+106A;Alicante (SCD Number 4-A);109A;Alicante (SCD Number 5-A);1004
+106A;Alicante (SCD Number 4-A);110A;Alicante (SCD Number 5-B);200
+106A;Alicante (SCD Number 4-A);111A;Alicante (SCD Number 6-A);143
+106A;Alicante (SCD Number 4-A);112A;Alicante (SCD Number 6-B);207
+106A;Alicante (SCD Number 4-A);116A;Alicante (SCD Number 8-B);129
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);016V;Riba-roja de Túria y Loriguilla;114
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);046V;Alfafar y Llocnou de la Corona;110
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);081V;Valencia (SCD Marxalenes);108
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);082V;Meliana;107
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);084V;Valencia (SCD El Botànic/La Roqueta);111
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);152
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);091V;Valencia (SCD Safranar/Favara);100
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);092V;Valencia (SCD La Malva-rosa);372
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);099V;Valencia (SCD La Creu del Grau);333
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);100V;Valencia (SCD La Petxina);140
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);102V;Valencia (SCD El Grau/Natzaret);169
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);107
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);110V;Valencia (SCD Morvedre/Trinitat);256
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);111V;Eliana, l';137
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);112V;Valencia (SCD Tormos/Sant Antoni);270
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);115V;Valencia (SCD El Pla del Remei/Gran Via);253
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);116V;Valencia (SCD Mont-Olivet);198
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);117V;Puçol;151
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);118V;Valencia (SCD En Corts/Na Rovella);188
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);130
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);121V;Valencia (SCD Poblats del Sud);138
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);122V;Valencia (SCD Safranar/Vara de Quart);169
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);2558
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);125V;Picassent;117
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);126V;Moncada;145
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);128V;Valencia (SCD Malilla);185
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);129V;Valencia (SCD Ciutat Fallera);249
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);130V;Valencia (SCD Arrancapins);261
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);132V;Valencia (SCD Russafa);249
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);133V;Bétera;148
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);134V;Valencia (SCD Benicalap);192
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);135V;Pobla de Vallbona, la;105
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);136V;Alboraya;517
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);137V;Quart de Poblet;119
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);138V;Valencia (SCD Patraix);274
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);139V;Valencia (SCD Aiora);715
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);140V;Paiporta;184
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);896
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);143V;Valencia (SCD Torrefiel);289
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);144V;Valencia (SCD Ciutat Vella);269
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);145V;Valencia (SCD Orriols/Sant llorenç);419
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);146V;Algemesí;115
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);147V;Sueca;107
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);1068
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);149V;Catarroja;116
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);150V;Valencia (SCD Benimaclet);1247
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);152V;Xirivella;190
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);153V;Alaquàs;112
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);154V;Valencia (SCD El Pla del Real);1127
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);155V;Manises;111
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);156V;Valencia (SCD Nou Moles/Soternes);240
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);157V;Aldaia;128
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);250
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);160V;Burjassot;282
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);161V;Valencia (SCD Campanar);346
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);162V;Torrent (distrito 03);233
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);163V;Mislata;310
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);165V;Paterna;430
+107A;Alicante (SCD Number 4-B);011A;Busot y otros municipios;108
+107A;Alicante (SCD Number 4-B);032A;Campello, el;320
+107A;Alicante (SCD Number 4-B);047A;Mutxamel;302
+107A;Alicante (SCD Number 4-B);060A;Sant Joan d'Alacant;967
+107A;Alicante (SCD Number 4-B);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);127
+107A;Alicante (SCD Number 4-B);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);106
+107A;Alicante (SCD Number 4-B);100A;Alicante (SCD Number 1);249
+107A;Alicante (SCD Number 4-B);101A;Alicante (SCD Number 2-A);155
+107A;Alicante (SCD Number 4-B);102A;Alicante (SCD Number 2-B);170
+107A;Alicante (SCD Number 4-B);103A;Alicante (SCD Number 3-A);286
+107A;Alicante (SCD Number 4-B);104A;Alicante (SCD Number 3-B);913
+107A;Alicante (SCD Number 4-B);105A;Alicante (SCD Number 3-C);331
+107A;Alicante (SCD Number 4-B);106A;Alicante (SCD Number 4-A);306
+107A;Alicante (SCD Number 4-B);108A;Alicante (SCD Number 4-C);1249
+107A;Alicante (SCD Number 4-B);109A;Alicante (SCD Number 5-A);140
+107A;Alicante (SCD Number 4-B);110A;Alicante (SCD Number 5-B);123
+107A;Alicante (SCD Number 4-B);111A;Alicante (SCD Number 6-A);161
+107A;Alicante (SCD Number 4-B);112A;Alicante (SCD Number 6-B);206
+107A;Alicante (SCD Number 4-B);113A;Alicante (SCD Number 7-A);112
+107A;Alicante (SCD Number 4-B);116A;Alicante (SCD Number 8-B);165
+107V;Tavernes de la Valldigna;007V;Simat de la Valldigna y Benifairó de la Valldigna;560
+107V;Tavernes de la Valldigna;012V;Xeraco y Xeresa;181
+107V;Tavernes de la Valldigna;127V;Cullera;161
+108A;Alicante (SCD Number 4-C);032A;Campello, el;337
+108A;Alicante (SCD Number 4-C);047A;Mutxamel;263
+108A;Alicante (SCD Number 4-C);060A;Sant Joan d'Alacant;396
+108A;Alicante (SCD Number 4-C);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);178
+108A;Alicante (SCD Number 4-C);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);108
+108A;Alicante (SCD Number 4-C);100A;Alicante (SCD Number 1);168
+108A;Alicante (SCD Number 4-C);101A;Alicante (SCD Number 2-A);162
+108A;Alicante (SCD Number 4-C);102A;Alicante (SCD Number 2-B);147
+108A;Alicante (SCD Number 4-C);103A;Alicante (SCD Number 3-A);249
+108A;Alicante (SCD Number 4-C);104A;Alicante (SCD Number 3-B);145
+108A;Alicante (SCD Number 4-C);105A;Alicante (SCD Number 3-C);212
+108A;Alicante (SCD Number 4-C);106A;Alicante (SCD Number 4-A);249
+108A;Alicante (SCD Number 4-C);107A;Alicante (SCD Number 4-B);1885
+108A;Alicante (SCD Number 4-C);109A;Alicante (SCD Number 5-A);127
+108A;Alicante (SCD Number 4-C);110A;Alicante (SCD Number 5-B);132
+108A;Alicante (SCD Number 4-C);111A;Alicante (SCD Number 6-A);188
+108A;Alicante (SCD Number 4-C);112A;Alicante (SCD Number 6-B);201
+108A;Alicante (SCD Number 4-C);113A;Alicante (SCD Number 7-A);151
+108A;Alicante (SCD Number 4-C);116A;Alicante (SCD Number 8-B);161
+108V;Sagunto/Sagunt (distrito 06);020V;Sagunto/Sagunt (distrito 01) y otros municipios;162
+108V;Sagunto/Sagunt (distrito 06);022V;Sagunto/Sagunt (distritos 04, 05 y 08);558
+108V;Sagunto/Sagunt (distrito 06);060V;Canet d'En Berenguer;280
+108V;Sagunto/Sagunt (distrito 06);105V;Sagunto/Sagunt (distrito 03);262
+108V;Sagunto/Sagunt (distrito 06);117V;Puçol;186
+108V;Sagunto/Sagunt (distrito 06);131V;Sagunto/Sagunt (distrito 07);2743
+109A;Alicante (SCD Number 5-A);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);109
+109A;Alicante (SCD Number 5-A);103A;Alicante (SCD Number 3-A);480
+109A;Alicante (SCD Number 5-A);106A;Alicante (SCD Number 4-A);548
+109A;Alicante (SCD Number 5-A);110A;Alicante (SCD Number 5-B);456
+109A;Alicante (SCD Number 5-A);111A;Alicante (SCD Number 6-A);198
+109A;Alicante (SCD Number 5-A);112A;Alicante (SCD Number 6-B);977
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);091V;Valencia (SCD Safranar/Favara);134
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);100V;Valencia (SCD La Petxina);103
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);148
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);122V;Valencia (SCD Safranar/Vara de Quart);875
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);130V;Valencia (SCD Arrancapins);110
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);137V;Quart de Poblet;102
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);138V;Valencia (SCD Patraix);455
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);140V;Paiporta;111
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);150V;Valencia (SCD Benimaclet);115
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);152V;Xirivella;1084
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);153V;Alaquàs;115
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);156V;Valencia (SCD Nou Moles/Soternes);1845
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);157V;Aldaia;118
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);181
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);160V;Burjassot;100
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);161V;Valencia (SCD Campanar);237
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);162V;Torrent (distrito 03);101
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);163V;Mislata;401
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);165V;Paterna;208
+10CS;Artana y otros municipios;09CS;Soneja y otros municipios;232
+10CS;Artana y otros municipios;25CS;Onda;103
+10CS;Artana y otros municipios;30CS;Vall d'Uixó, la;118
+110A;Alicante (SCD Number 5-B);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);105
+110A;Alicante (SCD Number 5-B);101A;Alicante (SCD Number 2-A);606
+110A;Alicante (SCD Number 5-B);103A;Alicante (SCD Number 3-A);431
+110A;Alicante (SCD Number 5-B);105A;Alicante (SCD Number 3-C);114
+110A;Alicante (SCD Number 5-B);106A;Alicante (SCD Number 4-A);118
+110A;Alicante (SCD Number 5-B);108A;Alicante (SCD Number 4-C);133
+110A;Alicante (SCD Number 5-B);109A;Alicante (SCD Number 5-A);256
+110A;Alicante (SCD Number 5-B);111A;Alicante (SCD Number 6-A);336
+110A;Alicante (SCD Number 5-B);112A;Alicante (SCD Number 6-B);217
+110A;Alicante (SCD Number 5-B);113A;Alicante (SCD Number 7-A);103
+110A;Alicante (SCD Number 5-B);116A;Alicante (SCD Number 8-B);112
+110V;Valencia (SCD Morvedre/Trinitat);081V;Valencia (SCD Marxalenes);221
+110V;Valencia (SCD Morvedre/Trinitat);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);100
+110V;Valencia (SCD Morvedre/Trinitat);112V;Valencia (SCD Tormos/Sant Antoni);873
+110V;Valencia (SCD Morvedre/Trinitat);136V;Alboraya;142
+110V;Valencia (SCD Morvedre/Trinitat);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);120
+110V;Valencia (SCD Morvedre/Trinitat);143V;Valencia (SCD Torrefiel);150
+110V;Valencia (SCD Morvedre/Trinitat);144V;Valencia (SCD Ciutat Vella);221
+110V;Valencia (SCD Morvedre/Trinitat);145V;Valencia (SCD Orriols/Sant llorenç);287
+110V;Valencia (SCD Morvedre/Trinitat);150V;Valencia (SCD Benimaclet);403
+110V;Valencia (SCD Morvedre/Trinitat);154V;Valencia (SCD El Pla del Real);678
+110V;Valencia (SCD Morvedre/Trinitat);161V;Valencia (SCD Campanar);122
+110V;Valencia (SCD Morvedre/Trinitat);163V;Mislata;130
+110V;Valencia (SCD Morvedre/Trinitat);165V;Paterna;144
+111A;Alicante (SCD Number 6-A);032A;Campello, el;102
+111A;Alicante (SCD Number 6-A);047A;Mutxamel;109
+111A;Alicante (SCD Number 6-A);060A;Sant Joan d'Alacant;106
+111A;Alicante (SCD Number 6-A);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);146
+111A;Alicante (SCD Number 6-A);100A;Alicante (SCD Number 1);463
+111A;Alicante (SCD Number 6-A);101A;Alicante (SCD Number 2-A);974
+111A;Alicante (SCD Number 6-A);102A;Alicante (SCD Number 2-B);121
+111A;Alicante (SCD Number 6-A);103A;Alicante (SCD Number 3-A);186
+111A;Alicante (SCD Number 6-A);106A;Alicante (SCD Number 4-A);128
+111A;Alicante (SCD Number 6-A);107A;Alicante (SCD Number 4-B);113
+111A;Alicante (SCD Number 6-A);108A;Alicante (SCD Number 4-C);225
+111A;Alicante (SCD Number 6-A);109A;Alicante (SCD Number 5-A);233
+111A;Alicante (SCD Number 6-A);110A;Alicante (SCD Number 5-B);1014
+111A;Alicante (SCD Number 6-A);112A;Alicante (SCD Number 6-B);1790
+111A;Alicante (SCD Number 6-A);113A;Alicante (SCD Number 7-A);575
+111A;Alicante (SCD Number 6-A);115A;Alicante (SCD Number 8-A);325
+111A;Alicante (SCD Number 6-A);116A;Alicante (SCD Number 8-B);174
+111V;Eliana, l';016V;Riba-roja de Túria y Loriguilla;1177
+111V;Eliana, l';047V;Llíria y otros municipios;250
+111V;Eliana, l';070V;San Antonio de Benagéber;1521
+111V;Eliana, l';083V;Benaguasil;171
+111V;Eliana, l';133V;Bétera;164
+111V;Eliana, l';135V;Pobla de Vallbona, la;1406
+111V;Eliana, l';165V;Paterna;212
+112A;Alicante (SCD Number 6-B);047A;Mutxamel;120
+112A;Alicante (SCD Number 6-B);060A;Sant Joan d'Alacant;101
+112A;Alicante (SCD Number 6-B);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);170
+112A;Alicante (SCD Number 6-B);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);208
+112A;Alicante (SCD Number 6-B);101A;Alicante (SCD Number 2-A);135
+112A;Alicante (SCD Number 6-B);106A;Alicante (SCD Number 4-A);144
+112A;Alicante (SCD Number 6-B);108A;Alicante (SCD Number 4-C);159
+112A;Alicante (SCD Number 6-B);109A;Alicante (SCD Number 5-A);373
+112A;Alicante (SCD Number 6-B);110A;Alicante (SCD Number 5-B);193
+112A;Alicante (SCD Number 6-B);111A;Alicante (SCD Number 6-A);1079
+112A;Alicante (SCD Number 6-B);113A;Alicante (SCD Number 7-A);272
+112A;Alicante (SCD Number 6-B);114A;Alicante (SCD Number 7-B);238
+112A;Alicante (SCD Number 6-B);116A;Alicante (SCD Number 8-B);192
+112V;Valencia (SCD Tormos/Sant Antoni);081V;Valencia (SCD Marxalenes);165
+112V;Valencia (SCD Tormos/Sant Antoni);110V;Valencia (SCD Morvedre/Trinitat);357
+112V;Valencia (SCD Tormos/Sant Antoni);129V;Valencia (SCD Ciutat Fallera);158
+112V;Valencia (SCD Tormos/Sant Antoni);143V;Valencia (SCD Torrefiel);455
+112V;Valencia (SCD Tormos/Sant Antoni);145V;Valencia (SCD Orriols/Sant llorenç);759
+112V;Valencia (SCD Tormos/Sant Antoni);150V;Valencia (SCD Benimaclet);195
+113A;Alicante (SCD Number 7-A);100A;Alicante (SCD Number 1);145
+113A;Alicante (SCD Number 7-A);108A;Alicante (SCD Number 4-C);159
+113A;Alicante (SCD Number 7-A);111A;Alicante (SCD Number 6-A);346
+113A;Alicante (SCD Number 7-A);112A;Alicante (SCD Number 6-B);381
+113A;Alicante (SCD Number 7-A);114A;Alicante (SCD Number 7-B);811
+113A;Alicante (SCD Number 7-A);115A;Alicante (SCD Number 8-A);336
+113A;Alicante (SCD Number 7-A);116A;Alicante (SCD Number 8-B);189
+113V;Silla;015V;Albal y Beniparrell;447
+113V;Silla;046V;Alfafar y Llocnou de la Corona;175
+113V;Silla;072V;Almussafes;252
+113V;Silla;079V;Alcàsser;530
+113V;Silla;087V;Benifaió;114
+113V;Silla;098V;Benetússer;121
+113V;Silla;121V;Valencia (SCD Poblats del Sud);213
+113V;Silla;125V;Picassent;547
+113V;Silla;140V;Paiporta;178
+113V;Silla;146V;Algemesí;174
+113V;Silla;147V;Sueca;110
+113V;Silla;149V;Catarroja;310
+113V;Silla;162V;Torrent (distrito 03);120
+113V;Silla;163V;Mislata;100
+113V;Silla;165V;Paterna;106
+114A;Alicante (SCD Number 7-B);032A;Campello, el;103
+114A;Alicante (SCD Number 7-B);047A;Mutxamel;195
+114A;Alicante (SCD Number 7-B);060A;Sant Joan d'Alacant;140
+114A;Alicante (SCD Number 7-B);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);135
+114A;Alicante (SCD Number 7-B);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);194
+114A;Alicante (SCD Number 7-B);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);136
+114A;Alicante (SCD Number 7-B);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);129
+114A;Alicante (SCD Number 7-B);103A;Alicante (SCD Number 3-A);177
+114A;Alicante (SCD Number 7-B);105A;Alicante (SCD Number 3-C);124
+114A;Alicante (SCD Number 7-B);106A;Alicante (SCD Number 4-A);141
+114A;Alicante (SCD Number 7-B);108A;Alicante (SCD Number 4-C);197
+114A;Alicante (SCD Number 7-B);109A;Alicante (SCD Number 5-A);184
+114A;Alicante (SCD Number 7-B);110A;Alicante (SCD Number 5-B);116
+114A;Alicante (SCD Number 7-B);111A;Alicante (SCD Number 6-A);192
+114A;Alicante (SCD Number 7-B);112A;Alicante (SCD Number 6-B);603
+114A;Alicante (SCD Number 7-B);113A;Alicante (SCD Number 7-A);1083
+114A;Alicante (SCD Number 7-B);115A;Alicante (SCD Number 8-A);124
+114A;Alicante (SCD Number 7-B);116A;Alicante (SCD Number 8-B);845
+114V;Torrent (distrito 01);074V;Torrent (distrito 02);237
+114V;Torrent (distrito 01);101V;Torrent (distrito 04);100
+114V;Torrent (distrito 01);153V;Alaquàs;516
+114V;Torrent (distrito 01);162V;Torrent (distrito 03);529
+115A;Alicante (SCD Number 8-A);032A;Campello, el;121
+115A;Alicante (SCD Number 8-A);047A;Mutxamel;130
+115A;Alicante (SCD Number 8-A);060A;Sant Joan d'Alacant;139
+115A;Alicante (SCD Number 8-A);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);124
+115A;Alicante (SCD Number 8-A);100A;Alicante (SCD Number 1);714
+115A;Alicante (SCD Number 8-A);101A;Alicante (SCD Number 2-A);260
+115A;Alicante (SCD Number 8-A);103A;Alicante (SCD Number 3-A);120
+115A;Alicante (SCD Number 8-A);107A;Alicante (SCD Number 4-B);136
+115A;Alicante (SCD Number 8-A);108A;Alicante (SCD Number 4-C);320
+115A;Alicante (SCD Number 8-A);109A;Alicante (SCD Number 5-A);119
+115A;Alicante (SCD Number 8-A);110A;Alicante (SCD Number 5-B);128
+115A;Alicante (SCD Number 8-A);111A;Alicante (SCD Number 6-A);398
+115A;Alicante (SCD Number 8-A);112A;Alicante (SCD Number 6-B);313
+115A;Alicante (SCD Number 8-A);113A;Alicante (SCD Number 7-A);1345
+115A;Alicante (SCD Number 8-A);114A;Alicante (SCD Number 7-B);215
+115A;Alicante (SCD Number 8-A);116A;Alicante (SCD Number 8-B);489
+115V;Valencia (SCD El Pla del Remei/Gran Via);084V;Valencia (SCD El Botànic/La Roqueta);135
+115V;Valencia (SCD El Pla del Remei/Gran Via);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);175
+115V;Valencia (SCD El Pla del Remei/Gran Via);099V;Valencia (SCD La Creu del Grau);186
+115V;Valencia (SCD El Pla del Remei/Gran Via);100V;Valencia (SCD La Petxina);161
+115V;Valencia (SCD El Pla del Remei/Gran Via);102V;Valencia (SCD El Grau/Natzaret);106
+115V;Valencia (SCD El Pla del Remei/Gran Via);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);140
+115V;Valencia (SCD El Pla del Remei/Gran Via);110V;Valencia (SCD Morvedre/Trinitat);185
+115V;Valencia (SCD El Pla del Remei/Gran Via);112V;Valencia (SCD Tormos/Sant Antoni);107
+115V;Valencia (SCD El Pla del Remei/Gran Via);116V;Valencia (SCD Mont-Olivet);466
+115V;Valencia (SCD El Pla del Remei/Gran Via);118V;Valencia (SCD En Corts/Na Rovella);216
+115V;Valencia (SCD El Pla del Remei/Gran Via);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);123
+115V;Valencia (SCD El Pla del Remei/Gran Via);121V;Valencia (SCD Poblats del Sud);145
+115V;Valencia (SCD El Pla del Remei/Gran Via);122V;Valencia (SCD Safranar/Vara de Quart);126
+115V;Valencia (SCD El Pla del Remei/Gran Via);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);151
+115V;Valencia (SCD El Pla del Remei/Gran Via);128V;Valencia (SCD Malilla);192
+115V;Valencia (SCD El Pla del Remei/Gran Via);129V;Valencia (SCD Ciutat Fallera);115
+115V;Valencia (SCD El Pla del Remei/Gran Via);130V;Valencia (SCD Arrancapins);311
+115V;Valencia (SCD El Pla del Remei/Gran Via);132V;Valencia (SCD Russafa);1176
+115V;Valencia (SCD El Pla del Remei/Gran Via);133V;Bétera;130
+115V;Valencia (SCD El Pla del Remei/Gran Via);134V;Valencia (SCD Benicalap);176
+115V;Valencia (SCD El Pla del Remei/Gran Via);136V;Alboraya;160
+115V;Valencia (SCD El Pla del Remei/Gran Via);138V;Valencia (SCD Patraix);230
+115V;Valencia (SCD El Pla del Remei/Gran Via);139V;Valencia (SCD Aiora);160
+115V;Valencia (SCD El Pla del Remei/Gran Via);140V;Paiporta;127
+115V;Valencia (SCD El Pla del Remei/Gran Via);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);415
+115V;Valencia (SCD El Pla del Remei/Gran Via);143V;Valencia (SCD Torrefiel);156
+115V;Valencia (SCD El Pla del Remei/Gran Via);144V;Valencia (SCD Ciutat Vella);852
+115V;Valencia (SCD El Pla del Remei/Gran Via);145V;Valencia (SCD Orriols/Sant llorenç);224
+115V;Valencia (SCD El Pla del Remei/Gran Via);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);171
+115V;Valencia (SCD El Pla del Remei/Gran Via);149V;Catarroja;107
+115V;Valencia (SCD El Pla del Remei/Gran Via);150V;Valencia (SCD Benimaclet);267
+115V;Valencia (SCD El Pla del Remei/Gran Via);152V;Xirivella;136
+115V;Valencia (SCD El Pla del Remei/Gran Via);154V;Valencia (SCD El Pla del Real);906
+115V;Valencia (SCD El Pla del Remei/Gran Via);155V;Manises;103
+115V;Valencia (SCD El Pla del Remei/Gran Via);156V;Valencia (SCD Nou Moles/Soternes);260
+115V;Valencia (SCD El Pla del Remei/Gran Via);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);307
+115V;Valencia (SCD El Pla del Remei/Gran Via);160V;Burjassot;189
+115V;Valencia (SCD El Pla del Remei/Gran Via);161V;Valencia (SCD Campanar);295
+115V;Valencia (SCD El Pla del Remei/Gran Via);162V;Torrent (distrito 03);131
+115V;Valencia (SCD El Pla del Remei/Gran Via);163V;Mislata;290
+115V;Valencia (SCD El Pla del Remei/Gran Via);165V;Paterna;311
+116A;Alicante (SCD Number 8-B);009A;Agost y Tibi;264
+116A;Alicante (SCD Number 8-B);025A;Aspe;156
+116A;Alicante (SCD Number 8-B);032A;Campello, el;380
+116A;Alicante (SCD Number 8-B);036A;Crevillent;103
+116A;Alicante (SCD Number 8-B);042A;Ibi;101
+116A;Alicante (SCD Number 8-B);045A;Monforte del Cid;325
+116A;Alicante (SCD Number 8-B);047A;Mutxamel;530
+116A;Alicante (SCD Number 8-B);048A;Novelda;229
+116A;Alicante (SCD Number 8-B);054A;Petrer;160
+116A;Alicante (SCD Number 8-B);060A;Sant Joan d'Alacant;438
+116A;Alicante (SCD Number 8-B);062A;Santa Pola;291
+116A;Alicante (SCD Number 8-B);077A;Elche/Elx (distrito 01);259
+116A;Alicante (SCD Number 8-B);078A;Elche/Elx (distrito 02);257
+116A;Alicante (SCD Number 8-B);079A;Elche/Elx (distrito 03);124
+116A;Alicante (SCD Number 8-B);080A;Elche/Elx (distrito 04);173
+116A;Alicante (SCD Number 8-B);081A;Elche/Elx (distrito 05);190
+116A;Alicante (SCD Number 8-B);082A;Elche/Elx (secciones 001 a 022 del distrito 06);232
+116A;Alicante (SCD Number 8-B);083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);700
+116A;Alicante (SCD Number 8-B);094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);683
+116A;Alicante (SCD Number 8-B);095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);387
+116A;Alicante (SCD Number 8-B);096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);522
+116A;Alicante (SCD Number 8-B);100A;Alicante (SCD Number 1);489
+116A;Alicante (SCD Number 8-B);101A;Alicante (SCD Number 2-A);412
+116A;Alicante (SCD Number 8-B);102A;Alicante (SCD Number 2-B);291
+116A;Alicante (SCD Number 8-B);103A;Alicante (SCD Number 3-A);390
+116A;Alicante (SCD Number 8-B);104A;Alicante (SCD Number 3-B);230
+116A;Alicante (SCD Number 8-B);105A;Alicante (SCD Number 3-C);400
+116A;Alicante (SCD Number 8-B);106A;Alicante (SCD Number 4-A);386
+116A;Alicante (SCD Number 8-B);107A;Alicante (SCD Number 4-B);359
+116A;Alicante (SCD Number 8-B);108A;Alicante (SCD Number 4-C);837
+116A;Alicante (SCD Number 8-B);109A;Alicante (SCD Number 5-A);430
+116A;Alicante (SCD Number 8-B);110A;Alicante (SCD Number 5-B);364
+116A;Alicante (SCD Number 8-B);111A;Alicante (SCD Number 6-A);671
+116A;Alicante (SCD Number 8-B);112A;Alicante (SCD Number 6-B);1148
+116A;Alicante (SCD Number 8-B);113A;Alicante (SCD Number 7-A);1070
+116A;Alicante (SCD Number 8-B);114A;Alicante (SCD Number 7-B);557
+116A;Alicante (SCD Number 8-B);115A;Alicante (SCD Number 8-A);1022
+116V;Valencia (SCD Mont-Olivet);118V;Valencia (SCD En Corts/Na Rovella);1562
+116V;Valencia (SCD Mont-Olivet);132V;Valencia (SCD Russafa);201
+117V;Puçol;020V;Sagunto/Sagunt (distrito 01) y otros municipios;108
+117V;Puçol;022V;Sagunto/Sagunt (distritos 04, 05 y 08);321
+117V;Puçol;069V;Puig de Santa Maria, el;467
+117V;Puçol;071V;Rafelbunyol;122
+118V;Valencia (SCD En Corts/Na Rovella);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);179
+118V;Valencia (SCD En Corts/Na Rovella);116V;Valencia (SCD Mont-Olivet);358
+118V;Valencia (SCD En Corts/Na Rovella);128V;Valencia (SCD Malilla);931
+118V;Valencia (SCD En Corts/Na Rovella);132V;Valencia (SCD Russafa);181
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);091V;Valencia (SCD Safranar/Favara);312
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);121V;Valencia (SCD Poblats del Sud);222
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);122V;Valencia (SCD Safranar/Vara de Quart);521
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);128V;Valencia (SCD Malilla);1024
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);140V;Paiporta;104
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);1138
+11CS;Altura y otros municipios;12CS;Viver y otros municipios;125
+11CS;Altura y otros municipios;28CS;Segorbe;477
+120V;Requena;028V;Venta del Moro y otros municipios;241
+120V;Requena;033V;Cofrentes y otros municipios;112
+120V;Requena;086V;Utiel;597
+121V;Valencia (SCD Poblats del Sud);015V;Albal y Beniparrell;116
+121V;Valencia (SCD Poblats del Sud);046V;Alfafar y Llocnou de la Corona;337
+121V;Valencia (SCD Poblats del Sud);077V;Massanassa;193
+121V;Valencia (SCD Poblats del Sud);080V;Sedaví;442
+121V;Valencia (SCD Poblats del Sud);085V;Picanya;412
+121V;Valencia (SCD Poblats del Sud);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);144
+121V;Valencia (SCD Poblats del Sud);098V;Benetússer;112
+121V;Valencia (SCD Poblats del Sud);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);297
+121V;Valencia (SCD Poblats del Sud);122V;Valencia (SCD Safranar/Vara de Quart);329
+121V;Valencia (SCD Poblats del Sud);128V;Valencia (SCD Malilla);179
+121V;Valencia (SCD Poblats del Sud);140V;Paiporta;274
+121V;Valencia (SCD Poblats del Sud);147V;Sueca;305
+121V;Valencia (SCD Poblats del Sud);149V;Catarroja;240
+121V;Valencia (SCD Poblats del Sud);152V;Xirivella;772
+121V;Valencia (SCD Poblats del Sud);153V;Alaquàs;100
+121V;Valencia (SCD Poblats del Sud);163V;Mislata;132
+121V;Valencia (SCD Poblats del Sud);165V;Paterna;124
+122V;Valencia (SCD Safranar/Vara de Quart);091V;Valencia (SCD Safranar/Favara);833
+122V;Valencia (SCD Safranar/Vara de Quart);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);367
+122V;Valencia (SCD Safranar/Vara de Quart);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);127
+122V;Valencia (SCD Safranar/Vara de Quart);121V;Valencia (SCD Poblats del Sud);101
+122V;Valencia (SCD Safranar/Vara de Quart);138V;Valencia (SCD Patraix);674
+122V;Valencia (SCD Safranar/Vara de Quart);140V;Paiporta;107
+122V;Valencia (SCD Safranar/Vara de Quart);152V;Xirivella;126
+122V;Valencia (SCD Safranar/Vara de Quart);156V;Valencia (SCD Nou Moles/Soternes);141
+122V;Valencia (SCD Safranar/Vara de Quart);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);199
+122V;Valencia (SCD Safranar/Vara de Quart);161V;Valencia (SCD Campanar);102
+122V;Valencia (SCD Safranar/Vara de Quart);163V;Mislata;121
+122V;Valencia (SCD Safranar/Vara de Quart);165V;Paterna;128
+123V;Carcaixent;008V;Manuel y otros municipios;111
+123V;Carcaixent;009V;Pobla Llarga, la y otros municipios;162
+123V;Carcaixent;146V;Algemesí;127
+123V;Carcaixent;164V;Alzira;719
+124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);261
+124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);139V;Valencia (SCD Aiora);1274
+124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);671
+125V;Picassent;015V;Albal y Beniparrell;224
+125V;Picassent;046V;Alfafar y Llocnou de la Corona;124
+125V;Picassent;072V;Almussafes;271
+125V;Picassent;079V;Alcàsser;1229
+125V;Picassent;087V;Benifaió;434
+125V;Picassent;113V;Silla;385
+125V;Picassent;140V;Paiporta;136
+125V;Picassent;149V;Catarroja;221
+125V;Picassent;162V;Torrent (distrito 03);155
+125V;Picassent;165V;Paterna;109
+126V;Moncada;017V;Bonrepòs i Mirambell y otros municipios;855
+126V;Moncada;018V;Albuixech y otros municipios;107
+126V;Moncada;048V;Museros y Emperador;136
+126V;Moncada;058V;Náquera;404
+126V;Moncada;059V;Valencia (SCD Poblats del Nord);584
+126V;Moncada;063V;Rocafort;334
+126V;Moncada;094V;Godella;129
+126V;Moncada;104V;Massamagrell;115
+126V;Moncada;129V;Valencia (SCD Ciutat Fallera);102
+126V;Moncada;133V;Bétera;417
+126V;Moncada;143V;Valencia (SCD Torrefiel);112
+126V;Moncada;160V;Burjassot;194
+126V;Moncada;161V;Valencia (SCD Campanar);108
+126V;Moncada;165V;Paterna;175
+127V;Cullera;013V;Corbera y otros municipios;477
+127V;Cullera;107V;Tavernes de la Valldigna;216
+127V;Cullera;147V;Sueca;458
+128V;Valencia (SCD Malilla);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);140
+128V;Valencia (SCD Malilla);115V;Valencia (SCD El Pla del Remei/Gran Via);100
+128V;Valencia (SCD Malilla);116V;Valencia (SCD Mont-Olivet);139
+128V;Valencia (SCD Malilla);118V;Valencia (SCD En Corts/Na Rovella);541
+128V;Valencia (SCD Malilla);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);267
+128V;Valencia (SCD Malilla);121V;Valencia (SCD Poblats del Sud);117
+128V;Valencia (SCD Malilla);130V;Valencia (SCD Arrancapins);144
+128V;Valencia (SCD Malilla);132V;Valencia (SCD Russafa);473
+128V;Valencia (SCD Malilla);134V;Valencia (SCD Benicalap);113
+128V;Valencia (SCD Malilla);138V;Valencia (SCD Patraix);106
+128V;Valencia (SCD Malilla);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);110
+128V;Valencia (SCD Malilla);145V;Valencia (SCD Orriols/Sant llorenç);101
+128V;Valencia (SCD Malilla);150V;Valencia (SCD Benimaclet);106
+128V;Valencia (SCD Malilla);154V;Valencia (SCD El Pla del Real);128
+128V;Valencia (SCD Malilla);156V;Valencia (SCD Nou Moles/Soternes);113
+128V;Valencia (SCD Malilla);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);305
+128V;Valencia (SCD Malilla);161V;Valencia (SCD Campanar);220
+128V;Valencia (SCD Malilla);165V;Paterna;165
+129V;Valencia (SCD Ciutat Fallera);112V;Valencia (SCD Tormos/Sant Antoni);107
+129V;Valencia (SCD Ciutat Fallera);134V;Valencia (SCD Benicalap);901
+129V;Valencia (SCD Ciutat Fallera);143V;Valencia (SCD Torrefiel);362
+129V;Valencia (SCD Ciutat Fallera);160V;Burjassot;326
+12CS;Viver y otros municipios;11CS;Altura y otros municipios;180
+12CS;Viver y otros municipios;28CS;Segorbe;104
+130V;Valencia (SCD Arrancapins);084V;Valencia (SCD El Botànic/La Roqueta);829
+130V;Valencia (SCD Arrancapins);091V;Valencia (SCD Safranar/Favara);110
+130V;Valencia (SCD Arrancapins);100V;Valencia (SCD La Petxina);872
+130V;Valencia (SCD Arrancapins);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);116
+130V;Valencia (SCD Arrancapins);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);116
+130V;Valencia (SCD Arrancapins);122V;Valencia (SCD Safranar/Vara de Quart);136
+130V;Valencia (SCD Arrancapins);128V;Valencia (SCD Malilla);156
+130V;Valencia (SCD Arrancapins);132V;Valencia (SCD Russafa);203
+130V;Valencia (SCD Arrancapins);138V;Valencia (SCD Patraix);995
+130V;Valencia (SCD Arrancapins);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);158
+130V;Valencia (SCD Arrancapins);144V;Valencia (SCD Ciutat Vella);184
+130V;Valencia (SCD Arrancapins);154V;Valencia (SCD El Pla del Real);102
+130V;Valencia (SCD Arrancapins);156V;Valencia (SCD Nou Moles/Soternes);1042
+130V;Valencia (SCD Arrancapins);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);845
+130V;Valencia (SCD Arrancapins);161V;Valencia (SCD Campanar);188
+130V;Valencia (SCD Arrancapins);163V;Mislata;141
+130V;Valencia (SCD Arrancapins);165V;Paterna;244
+131V;Sagunto/Sagunt (distrito 07);022V;Sagunto/Sagunt (distritos 04, 05 y 08);120
+131V;Sagunto/Sagunt (distrito 07);060V;Canet d'En Berenguer;398
+131V;Sagunto/Sagunt (distrito 07);108V;Sagunto/Sagunt (distrito 06);821
+132V;Valencia (SCD Russafa);084V;Valencia (SCD El Botànic/La Roqueta);329
+132V;Valencia (SCD Russafa);115V;Valencia (SCD El Pla del Remei/Gran Via);922
+132V;Valencia (SCD Russafa);116V;Valencia (SCD Mont-Olivet);1644
+132V;Valencia (SCD Russafa);118V;Valencia (SCD En Corts/Na Rovella);670
+132V;Valencia (SCD Russafa);121V;Valencia (SCD Poblats del Sud);122
+132V;Valencia (SCD Russafa);128V;Valencia (SCD Malilla);285
+132V;Valencia (SCD Russafa);130V;Valencia (SCD Arrancapins);435
+132V;Valencia (SCD Russafa);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);143
+132V;Valencia (SCD Russafa);144V;Valencia (SCD Ciutat Vella);153
+132V;Valencia (SCD Russafa);154V;Valencia (SCD El Pla del Real);136
+132V;Valencia (SCD Russafa);156V;Valencia (SCD Nou Moles/Soternes);154
+132V;Valencia (SCD Russafa);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);247
+132V;Valencia (SCD Russafa);161V;Valencia (SCD Campanar);111
+132V;Valencia (SCD Russafa);163V;Mislata;108
+132V;Valencia (SCD Russafa);165V;Paterna;163
+133V;Bétera;019V;Serra y otros municipios;222
+133V;Bétera;047V;Llíria y otros municipios;135
+133V;Bétera;058V;Náquera;406
+133V;Bétera;059V;Valencia (SCD Poblats del Nord);127
+133V;Bétera;070V;San Antonio de Benagéber;118
+133V;Bétera;111V;Eliana, l';122
+133V;Bétera;126V;Moncada;265
+133V;Bétera;135V;Pobla de Vallbona, la;484
+133V;Bétera;160V;Burjassot;201
+133V;Bétera;161V;Valencia (SCD Campanar);135
+133V;Bétera;163V;Mislata;114
+133V;Bétera;165V;Paterna;1041
+134V;Valencia (SCD Benicalap);081V;Valencia (SCD Marxalenes);101
+134V;Valencia (SCD Benicalap);097V;Valencia (SCD Poblats de L'Oest);111
+134V;Valencia (SCD Benicalap);129V;Valencia (SCD Ciutat Fallera);1475
+134V;Valencia (SCD Benicalap);143V;Valencia (SCD Torrefiel);114
+134V;Valencia (SCD Benicalap);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);104
+134V;Valencia (SCD Benicalap);160V;Burjassot;274
+134V;Valencia (SCD Benicalap);161V;Valencia (SCD Campanar);1593
+134V;Valencia (SCD Benicalap);163V;Mislata;135
+134V;Valencia (SCD Benicalap);165V;Paterna;265
+135V;Pobla de Vallbona, la;016V;Riba-roja de Túria y Loriguilla;214
+135V;Pobla de Vallbona, la;047V;Llíria y otros municipios;1013
+135V;Pobla de Vallbona, la;070V;San Antonio de Benagéber;116
+135V;Pobla de Vallbona, la;083V;Benaguasil;733
+135V;Pobla de Vallbona, la;111V;Eliana, l';331
+135V;Pobla de Vallbona, la;133V;Bétera;144
+135V;Pobla de Vallbona, la;165V;Paterna;188
+136V;Alboraya;018V;Albuixech y otros municipios;124
+136V;Alboraya;064V;Almàssera;462
+136V;Alboraya;073V;Tavernes Blanques;275
+136V;Alboraya;082V;Meliana;379
+136V;Alboraya;092V;Valencia (SCD La Malva-rosa);745
+136V;Alboraya;106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);196
+136V;Alboraya;124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);103
+136V;Alboraya;129V;Valencia (SCD Ciutat Fallera);102
+136V;Alboraya;143V;Valencia (SCD Torrefiel);120
+136V;Alboraya;145V;Valencia (SCD Orriols/Sant llorenç);316
+136V;Alboraya;148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);188
+136V;Alboraya;150V;Valencia (SCD Benimaclet);356
+136V;Alboraya;160V;Burjassot;105
+136V;Alboraya;165V;Paterna;132
+137V;Quart de Poblet;016V;Riba-roja de Túria y Loriguilla;388
+137V;Quart de Poblet;029V;Chiva y Godelleta;183
+137V;Quart de Poblet;097V;Valencia (SCD Poblats de L'Oest);127
+137V;Quart de Poblet;101V;Torrent (distrito 04);172
+137V;Quart de Poblet;111V;Eliana, l';133
+137V;Quart de Poblet;114V;Torrent (distrito 01);114
+137V;Quart de Poblet;121V;Valencia (SCD Poblats del Sud);105
+137V;Quart de Poblet;122V;Valencia (SCD Safranar/Vara de Quart);120
+137V;Quart de Poblet;129V;Valencia (SCD Ciutat Fallera);138
+137V;Quart de Poblet;130V;Valencia (SCD Arrancapins);101
+137V;Quart de Poblet;133V;Bétera;101
+137V;Quart de Poblet;134V;Valencia (SCD Benicalap);120
+137V;Quart de Poblet;135V;Pobla de Vallbona, la;123
+137V;Quart de Poblet;138V;Valencia (SCD Patraix);140
+137V;Quart de Poblet;140V;Paiporta;170
+137V;Quart de Poblet;143V;Valencia (SCD Torrefiel);120
+137V;Quart de Poblet;145V;Valencia (SCD Orriols/Sant llorenç);107
+137V;Quart de Poblet;149V;Catarroja;174
+137V;Quart de Poblet;150V;Valencia (SCD Benimaclet);118
+137V;Quart de Poblet;152V;Xirivella;373
+137V;Quart de Poblet;153V;Alaquàs;332
+137V;Quart de Poblet;154V;Valencia (SCD El Pla del Real);110
+137V;Quart de Poblet;155V;Manises;989
+137V;Quart de Poblet;156V;Valencia (SCD Nou Moles/Soternes);237
+137V;Quart de Poblet;157V;Aldaia;976
+137V;Quart de Poblet;158V;Valencia (SCD La Raiosa/L'Hort de Senabre);107
+137V;Quart de Poblet;160V;Burjassot;183
+137V;Quart de Poblet;161V;Valencia (SCD Campanar);220
+137V;Quart de Poblet;162V;Torrent (distrito 03);311
+137V;Quart de Poblet;163V;Mislata;570
+137V;Quart de Poblet;165V;Paterna;769
+138V;Valencia (SCD Patraix);091V;Valencia (SCD Safranar/Favara);349
+138V;Valencia (SCD Patraix);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);228
+138V;Valencia (SCD Patraix);122V;Valencia (SCD Safranar/Vara de Quart);246
+138V;Valencia (SCD Patraix);130V;Valencia (SCD Arrancapins);741
+138V;Valencia (SCD Patraix);156V;Valencia (SCD Nou Moles/Soternes);707
+138V;Valencia (SCD Patraix);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);1134
+139V;Valencia (SCD Aiora);099V;Valencia (SCD La Creu del Grau);578
+139V;Valencia (SCD Aiora);102V;Valencia (SCD El Grau/Natzaret);263
+139V;Valencia (SCD Aiora);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);936
+139V;Valencia (SCD Aiora);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);521
+139V;Valencia (SCD Aiora);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);179
+13CS;Borriol y otros municipios;06CS;Vall d'Alba y otros municipios;234
+13CS;Borriol y otros municipios;19CS;Alcora, l';335
+13CS;Borriol y otros municipios;20CS;Almazora/Almassora;172
+13CS;Borriol y otros municipios;25CS;Onda;105
+13CS;Borriol y otros municipios;34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);214
+13CS;Borriol y otros municipios;35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);254
+13CS;Borriol y otros municipios;36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);213
+13CS;Borriol y otros municipios;37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);292
+13CS;Borriol y otros municipios;38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);598
+13CS;Borriol y otros municipios;39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);104
+140V;Paiporta;046V;Alfafar y Llocnou de la Corona;273
+140V;Paiporta;085V;Picanya;650
+140V;Paiporta;098V;Benetússer;254
+140V;Paiporta;121V;Valencia (SCD Poblats del Sud);106
+140V;Paiporta;149V;Catarroja;109
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);248
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);099V;Valencia (SCD La Creu del Grau);908
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);102V;Valencia (SCD El Grau/Natzaret);268
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);144
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);115V;Valencia (SCD El Pla del Remei/Gran Via);279
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);116V;Valencia (SCD Mont-Olivet);346
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);118V;Valencia (SCD En Corts/Na Rovella);130
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);121V;Valencia (SCD Poblats del Sud);102
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);213
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);132V;Valencia (SCD Russafa);159
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);134V;Valencia (SCD Benicalap);129
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);136V;Alboraya;102
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);139V;Valencia (SCD Aiora);535
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);144V;Valencia (SCD Ciutat Vella);107
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);145V;Valencia (SCD Orriols/Sant llorenç);108
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);182
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);150V;Valencia (SCD Benimaclet);109
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);154V;Valencia (SCD El Pla del Real);984
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);156V;Valencia (SCD Nou Moles/Soternes);107
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);107
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);161V;Valencia (SCD Campanar);156
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);163V;Mislata;150
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);165V;Paterna;241
+142V;Gandia (distrito 02);001V;Daimús y otros municipios;154
+142V;Gandia (distrito 02);002V;Bellreguard y otros municipios;148
+142V;Gandia (distrito 02);003V;Gandia (distritos 01 y 03);377
+142V;Gandia (distrito 02);006V;Real de Gandía y otros municipios;190
+142V;Gandia (distrito 02);049V;Oliva y otros municipios;157
+142V;Gandia (distrito 02);051V;Gandia (distrito 07) y Benirredrà;204
+142V;Gandia (distrito 02);075V;Gandia (distrito 06);283
+142V;Gandia (distrito 02);089V;Gandia (distrito 05);494
+142V;Gandia (distrito 02);093V;Gandia (distrito 04);432
+143V;Valencia (SCD Torrefiel);112V;Valencia (SCD Tormos/Sant Antoni);686
+143V;Valencia (SCD Torrefiel);129V;Valencia (SCD Ciutat Fallera);531
+143V;Valencia (SCD Torrefiel);145V;Valencia (SCD Orriols/Sant llorenç);425
+144V;Valencia (SCD Ciutat Vella);015V;Albal y Beniparrell;163
+144V;Valencia (SCD Ciutat Vella);016V;Riba-roja de Túria y Loriguilla;190
+144V;Valencia (SCD Ciutat Vella);017V;Bonrepòs i Mirambell y otros municipios;151
+144V;Valencia (SCD Ciutat Vella);018V;Albuixech y otros municipios;129
+144V;Valencia (SCD Ciutat Vella);029V;Chiva y Godelleta;133
+144V;Valencia (SCD Ciutat Vella);046V;Alfafar y Llocnou de la Corona;238
+144V;Valencia (SCD Ciutat Vella);047V;Llíria y otros municipios;197
+144V;Valencia (SCD Ciutat Vella);058V;Náquera;103
+144V;Valencia (SCD Ciutat Vella);059V;Valencia (SCD Poblats del Nord);121
+144V;Valencia (SCD Ciutat Vella);063V;Rocafort;169
+144V;Valencia (SCD Ciutat Vella);064V;Almàssera;100
+144V;Valencia (SCD Ciutat Vella);066V;Pobla de Farnals, la;106
+144V;Valencia (SCD Ciutat Vella);069V;Puig de Santa Maria, el;114
+144V;Valencia (SCD Ciutat Vella);070V;San Antonio de Benagéber;133
+144V;Valencia (SCD Ciutat Vella);073V;Tavernes Blanques;121
+144V;Valencia (SCD Ciutat Vella);080V;Sedaví;128
+144V;Valencia (SCD Ciutat Vella);081V;Valencia (SCD Marxalenes);373
+144V;Valencia (SCD Ciutat Vella);082V;Meliana;119
+144V;Valencia (SCD Ciutat Vella);084V;Valencia (SCD El Botànic/La Roqueta);1512
+144V;Valencia (SCD Ciutat Vella);085V;Picanya;138
+144V;Valencia (SCD Ciutat Vella);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);271
+144V;Valencia (SCD Ciutat Vella);091V;Valencia (SCD Safranar/Favara);266
+144V;Valencia (SCD Ciutat Vella);092V;Valencia (SCD La Malva-rosa);185
+144V;Valencia (SCD Ciutat Vella);094V;Godella;232
+144V;Valencia (SCD Ciutat Vella);097V;Valencia (SCD Poblats de L'Oest);239
+144V;Valencia (SCD Ciutat Vella);098V;Benetússer;137
+144V;Valencia (SCD Ciutat Vella);099V;Valencia (SCD La Creu del Grau);331
+144V;Valencia (SCD Ciutat Vella);100V;Valencia (SCD La Petxina);646
+144V;Valencia (SCD Ciutat Vella);101V;Torrent (distrito 04);166
+144V;Valencia (SCD Ciutat Vella);102V;Valencia (SCD El Grau/Natzaret);195
+144V;Valencia (SCD Ciutat Vella);104V;Massamagrell;165
+144V;Valencia (SCD Ciutat Vella);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);345
+144V;Valencia (SCD Ciutat Vella);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);301
+144V;Valencia (SCD Ciutat Vella);110V;Valencia (SCD Morvedre/Trinitat);1257
+144V;Valencia (SCD Ciutat Vella);111V;Eliana, l';239
+144V;Valencia (SCD Ciutat Vella);112V;Valencia (SCD Tormos/Sant Antoni);444
+144V;Valencia (SCD Ciutat Vella);113V;Silla;120
+144V;Valencia (SCD Ciutat Vella);114V;Torrent (distrito 01);167
+144V;Valencia (SCD Ciutat Vella);115V;Valencia (SCD El Pla del Remei/Gran Via);815
+144V;Valencia (SCD Ciutat Vella);116V;Valencia (SCD Mont-Olivet);541
+144V;Valencia (SCD Ciutat Vella);117V;Puçol;175
+144V;Valencia (SCD Ciutat Vella);118V;Valencia (SCD En Corts/Na Rovella);462
+144V;Valencia (SCD Ciutat Vella);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);417
+144V;Valencia (SCD Ciutat Vella);121V;Valencia (SCD Poblats del Sud);321
+144V;Valencia (SCD Ciutat Vella);122V;Valencia (SCD Safranar/Vara de Quart);373
+144V;Valencia (SCD Ciutat Vella);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);398
+144V;Valencia (SCD Ciutat Vella);125V;Picassent;176
+144V;Valencia (SCD Ciutat Vella);126V;Moncada;273
+144V;Valencia (SCD Ciutat Vella);127V;Cullera;103
+144V;Valencia (SCD Ciutat Vella);128V;Valencia (SCD Malilla);440
+144V;Valencia (SCD Ciutat Vella);129V;Valencia (SCD Ciutat Fallera);433
+144V;Valencia (SCD Ciutat Vella);130V;Valencia (SCD Arrancapins);939
+144V;Valencia (SCD Ciutat Vella);132V;Valencia (SCD Russafa);805
+144V;Valencia (SCD Ciutat Vella);133V;Bétera;310
+144V;Valencia (SCD Ciutat Vella);134V;Valencia (SCD Benicalap);521
+144V;Valencia (SCD Ciutat Vella);135V;Pobla de Vallbona, la;210
+144V;Valencia (SCD Ciutat Vella);136V;Alboraya;483
+144V;Valencia (SCD Ciutat Vella);137V;Quart de Poblet;258
+144V;Valencia (SCD Ciutat Vella);138V;Valencia (SCD Patraix);691
+144V;Valencia (SCD Ciutat Vella);139V;Valencia (SCD Aiora);479
+144V;Valencia (SCD Ciutat Vella);140V;Paiporta;362
+144V;Valencia (SCD Ciutat Vella);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);702
+144V;Valencia (SCD Ciutat Vella);143V;Valencia (SCD Torrefiel);537
+144V;Valencia (SCD Ciutat Vella);145V;Valencia (SCD Orriols/Sant llorenç);594
+144V;Valencia (SCD Ciutat Vella);146V;Algemesí;131
+144V;Valencia (SCD Ciutat Vella);147V;Sueca;207
+144V;Valencia (SCD Ciutat Vella);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);407
+144V;Valencia (SCD Ciutat Vella);149V;Catarroja;296
+144V;Valencia (SCD Ciutat Vella);150V;Valencia (SCD Benimaclet);799
+144V;Valencia (SCD Ciutat Vella);152V;Xirivella;354
+144V;Valencia (SCD Ciutat Vella);153V;Alaquàs;227
+144V;Valencia (SCD Ciutat Vella);154V;Valencia (SCD El Pla del Real);1224
+144V;Valencia (SCD Ciutat Vella);155V;Manises;262
+144V;Valencia (SCD Ciutat Vella);156V;Valencia (SCD Nou Moles/Soternes);707
+144V;Valencia (SCD Ciutat Vella);157V;Aldaia;268
+144V;Valencia (SCD Ciutat Vella);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);823
+144V;Valencia (SCD Ciutat Vella);160V;Burjassot;588
+144V;Valencia (SCD Ciutat Vella);161V;Valencia (SCD Campanar);1027
+144V;Valencia (SCD Ciutat Vella);162V;Torrent (distrito 03);433
+144V;Valencia (SCD Ciutat Vella);163V;Mislata;773
+144V;Valencia (SCD Ciutat Vella);164V;Alzira;114
+144V;Valencia (SCD Ciutat Vella);165V;Paterna;918
+145V;Valencia (SCD Orriols/Sant llorenç);073V;Tavernes Blanques;299
+145V;Valencia (SCD Orriols/Sant llorenç);110V;Valencia (SCD Morvedre/Trinitat);106
+145V;Valencia (SCD Orriols/Sant llorenç);112V;Valencia (SCD Tormos/Sant Antoni);178
+145V;Valencia (SCD Orriols/Sant llorenç);129V;Valencia (SCD Ciutat Fallera);146
+145V;Valencia (SCD Orriols/Sant llorenç);136V;Alboraya;235
+145V;Valencia (SCD Orriols/Sant llorenç);143V;Valencia (SCD Torrefiel);1096
+145V;Valencia (SCD Orriols/Sant llorenç);150V;Valencia (SCD Benimaclet);618
+145V;Valencia (SCD Orriols/Sant llorenç);165V;Paterna;101
+146V;Algemesí;014V;Albalat de la Ribera y otros municipios;304
+146V;Algemesí;057V;Guadassuar;281
+146V;Algemesí;087V;Benifaió;124
+146V;Algemesí;095V;Alginet;213
+146V;Algemesí;103V;Carlet;114
+146V;Algemesí;123V;Carcaixent;154
+146V;Algemesí;127V;Cullera;129
+146V;Algemesí;147V;Sueca;154
+146V;Algemesí;164V;Alzira;600
+147V;Sueca;013V;Corbera y otros municipios;410
+147V;Sueca;014V;Albalat de la Ribera y otros municipios;236
+147V;Sueca;019V;Serra y otros municipios;177
+147V;Sueca;127V;Cullera;512
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);092V;Valencia (SCD La Malva-rosa);300
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);099V;Valencia (SCD La Creu del Grau);118
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);102V;Valencia (SCD El Grau/Natzaret);624
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);124
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);563
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);136V;Alboraya;107
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);139V;Valencia (SCD Aiora);988
+149V;Catarroja;015V;Albal y Beniparrell;749
+149V;Catarroja;046V;Alfafar y Llocnou de la Corona;333
+149V;Catarroja;077V;Massanassa;671
+149V;Catarroja;079V;Alcàsser;119
+149V;Catarroja;098V;Benetússer;389
+149V;Catarroja;113V;Silla;104
+149V;Catarroja;121V;Valencia (SCD Poblats del Sud);145
+149V;Catarroja;125V;Picassent;134
+149V;Catarroja;140V;Paiporta;415
+149V;Catarroja;162V;Torrent (distrito 03);146
+149V;Catarroja;165V;Paterna;148
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);13CS;Borriol y otros municipios;109
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);20CS;Almazora/Almassora;210
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);23CS;Benicasim/Benicàssim;598
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);24CS;Borriana/Burriana;153
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);988
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);802
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);1220
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);609
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);1271
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);548
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);255
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);41CS;Vila-real (distrito 02);124
+150V;Valencia (SCD Benimaclet);110V;Valencia (SCD Morvedre/Trinitat);279
+150V;Valencia (SCD Benimaclet);112V;Valencia (SCD Tormos/Sant Antoni);100
+150V;Valencia (SCD Benimaclet);136V;Alboraya;255
+150V;Valencia (SCD Benimaclet);143V;Valencia (SCD Torrefiel);103
+150V;Valencia (SCD Benimaclet);145V;Valencia (SCD Orriols/Sant llorenç);1021
+150V;Valencia (SCD Benimaclet);154V;Valencia (SCD El Pla del Real);239
+151V;Xàtiva;008V;Manuel y otros municipios;192
+151V;Xàtiva;009V;Pobla Llarga, la y otros municipios;140
+151V;Xàtiva;010V;Genovés y otros municipios;893
+151V;Xàtiva;035V;Alcàntera de Xúquer y otros municipios;129
+151V;Xàtiva;036V;Anna y otros municipios;157
+151V;Xàtiva;037V;Llosa de Ranes, la y otros municipios;1240
+151V;Xàtiva;038V;Enguera y Chella;184
+151V;Xàtiva;040V;Aielo de Malferit y otros municipios;171
+151V;Xàtiva;054V;Alcúdia de Crespins, l';269
+151V;Xàtiva;056V;Benigànim;109
+151V;Xàtiva;062V;Villanueva de Castellón;112
+151V;Xàtiva;096V;Canals;915
+151V;Xàtiva;123V;Carcaixent;209
+151V;Xàtiva;159V;Ontinyent;121
+151V;Xàtiva;164V;Alzira;189
+152V;Xirivella;085V;Picanya;111
+152V;Xirivella;109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);365
+152V;Xirivella;122V;Valencia (SCD Safranar/Vara de Quart);143
+152V;Xirivella;137V;Quart de Poblet;219
+152V;Xirivella;153V;Alaquàs;497
+152V;Xirivella;157V;Aldaia;288
+152V;Xirivella;162V;Torrent (distrito 03);131
+152V;Xirivella;163V;Mislata;399
+152V;Xirivella;165V;Paterna;151
+153V;Alaquàs;101V;Torrent (distrito 04);219
+153V;Alaquàs;114V;Torrent (distrito 01);514
+153V;Alaquàs;137V;Quart de Poblet;130
+153V;Alaquàs;140V;Paiporta;104
+153V;Alaquàs;152V;Xirivella;322
+153V;Alaquàs;157V;Aldaia;1041
+153V;Alaquàs;162V;Torrent (distrito 03);342
+153V;Alaquàs;163V;Mislata;143
+153V;Alaquàs;165V;Paterna;130
+154V;Valencia (SCD El Pla del Real);016V;Riba-roja de Túria y Loriguilla;113
+154V;Valencia (SCD El Pla del Real);018V;Albuixech y otros municipios;120
+154V;Valencia (SCD El Pla del Real);046V;Alfafar y Llocnou de la Corona;117
+154V;Valencia (SCD El Pla del Real);069V;Puig de Santa Maria, el;101
+154V;Valencia (SCD El Pla del Real);081V;Valencia (SCD Marxalenes);133
+154V;Valencia (SCD El Pla del Real);082V;Meliana;103
+154V;Valencia (SCD El Pla del Real);084V;Valencia (SCD El Botànic/La Roqueta);138
+154V;Valencia (SCD El Pla del Real);090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);222
+154V;Valencia (SCD El Pla del Real);091V;Valencia (SCD Safranar/Favara);149
+154V;Valencia (SCD El Pla del Real);092V;Valencia (SCD La Malva-rosa);157
+154V;Valencia (SCD El Pla del Real);094V;Godella;140
+154V;Valencia (SCD El Pla del Real);097V;Valencia (SCD Poblats de L'Oest);138
+154V;Valencia (SCD El Pla del Real);099V;Valencia (SCD La Creu del Grau);261
+154V;Valencia (SCD El Pla del Real);100V;Valencia (SCD La Petxina);186
+154V;Valencia (SCD El Pla del Real);102V;Valencia (SCD El Grau/Natzaret);174
+154V;Valencia (SCD El Pla del Real);104V;Massamagrell;138
+154V;Valencia (SCD El Pla del Real);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);861
+154V;Valencia (SCD El Pla del Real);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);182
+154V;Valencia (SCD El Pla del Real);110V;Valencia (SCD Morvedre/Trinitat);462
+154V;Valencia (SCD El Pla del Real);111V;Eliana, l';131
+154V;Valencia (SCD El Pla del Real);112V;Valencia (SCD Tormos/Sant Antoni);311
+154V;Valencia (SCD El Pla del Real);114V;Torrent (distrito 01);113
+154V;Valencia (SCD El Pla del Real);115V;Valencia (SCD El Pla del Remei/Gran Via);552
+154V;Valencia (SCD El Pla del Real);116V;Valencia (SCD Mont-Olivet);306
+154V;Valencia (SCD El Pla del Real);117V;Puçol;135
+154V;Valencia (SCD El Pla del Real);118V;Valencia (SCD En Corts/Na Rovella);233
+154V;Valencia (SCD El Pla del Real);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);159
+154V;Valencia (SCD El Pla del Real);121V;Valencia (SCD Poblats del Sud);197
+154V;Valencia (SCD El Pla del Real);122V;Valencia (SCD Safranar/Vara de Quart);201
+154V;Valencia (SCD El Pla del Real);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);479
+154V;Valencia (SCD El Pla del Real);126V;Moncada;157
+154V;Valencia (SCD El Pla del Real);128V;Valencia (SCD Malilla);237
+154V;Valencia (SCD El Pla del Real);129V;Valencia (SCD Ciutat Fallera);262
+154V;Valencia (SCD El Pla del Real);130V;Valencia (SCD Arrancapins);340
+154V;Valencia (SCD El Pla del Real);131V;Sagunto/Sagunt (distrito 07);103
+154V;Valencia (SCD El Pla del Real);132V;Valencia (SCD Russafa);430
+154V;Valencia (SCD El Pla del Real);133V;Bétera;192
+154V;Valencia (SCD El Pla del Real);134V;Valencia (SCD Benicalap);259
+154V;Valencia (SCD El Pla del Real);135V;Pobla de Vallbona, la;142
+154V;Valencia (SCD El Pla del Real);136V;Alboraya;409
+154V;Valencia (SCD El Pla del Real);137V;Quart de Poblet;145
+154V;Valencia (SCD El Pla del Real);138V;Valencia (SCD Patraix);342
+154V;Valencia (SCD El Pla del Real);139V;Valencia (SCD Aiora);475
+154V;Valencia (SCD El Pla del Real);140V;Paiporta;210
+154V;Valencia (SCD El Pla del Real);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);1153
+154V;Valencia (SCD El Pla del Real);143V;Valencia (SCD Torrefiel);324
+154V;Valencia (SCD El Pla del Real);144V;Valencia (SCD Ciutat Vella);432
+154V;Valencia (SCD El Pla del Real);145V;Valencia (SCD Orriols/Sant llorenç);523
+154V;Valencia (SCD El Pla del Real);147V;Sueca;162
+154V;Valencia (SCD El Pla del Real);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);392
+154V;Valencia (SCD El Pla del Real);149V;Catarroja;151
+154V;Valencia (SCD El Pla del Real);150V;Valencia (SCD Benimaclet);2310
+154V;Valencia (SCD El Pla del Real);152V;Xirivella;194
+154V;Valencia (SCD El Pla del Real);153V;Alaquàs;150
+154V;Valencia (SCD El Pla del Real);155V;Manises;161
+154V;Valencia (SCD El Pla del Real);156V;Valencia (SCD Nou Moles/Soternes);355
+154V;Valencia (SCD El Pla del Real);157V;Aldaia;132
+154V;Valencia (SCD El Pla del Real);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);357
+154V;Valencia (SCD El Pla del Real);160V;Burjassot;320
+154V;Valencia (SCD El Pla del Real);161V;Valencia (SCD Campanar);453
+154V;Valencia (SCD El Pla del Real);162V;Torrent (distrito 03);235
+154V;Valencia (SCD El Pla del Real);163V;Mislata;422
+154V;Valencia (SCD El Pla del Real);165V;Paterna;511
+155V;Manises;016V;Riba-roja de Túria y Loriguilla;304
+155V;Manises;137V;Quart de Poblet;689
+155V;Manises;152V;Xirivella;150
+155V;Manises;153V;Alaquàs;139
+155V;Manises;156V;Valencia (SCD Nou Moles/Soternes);128
+155V;Manises;157V;Aldaia;240
+155V;Manises;160V;Burjassot;122
+155V;Manises;161V;Valencia (SCD Campanar);121
+155V;Manises;163V;Mislata;275
+155V;Manises;165V;Paterna;1744
+156V;Valencia (SCD Nou Moles/Soternes);100V;Valencia (SCD La Petxina);546
+156V;Valencia (SCD Nou Moles/Soternes);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);701
+156V;Valencia (SCD Nou Moles/Soternes);122V;Valencia (SCD Safranar/Vara de Quart);126
+156V;Valencia (SCD Nou Moles/Soternes);130V;Valencia (SCD Arrancapins);222
+156V;Valencia (SCD Nou Moles/Soternes);138V;Valencia (SCD Patraix);410
+156V;Valencia (SCD Nou Moles/Soternes);144V;Valencia (SCD Ciutat Vella);104
+156V;Valencia (SCD Nou Moles/Soternes);152V;Xirivella;125
+156V;Valencia (SCD Nou Moles/Soternes);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);151
+156V;Valencia (SCD Nou Moles/Soternes);161V;Valencia (SCD Campanar);381
+156V;Valencia (SCD Nou Moles/Soternes);163V;Mislata;558
+156V;Valencia (SCD Nou Moles/Soternes);165V;Paterna;150
+157V;Aldaia;016V;Riba-roja de Túria y Loriguilla;155
+157V;Aldaia;029V;Chiva y Godelleta;189
+157V;Aldaia;101V;Torrent (distrito 04);187
+157V;Aldaia;114V;Torrent (distrito 01);208
+157V;Aldaia;137V;Quart de Poblet;482
+157V;Aldaia;140V;Paiporta;138
+157V;Aldaia;152V;Xirivella;369
+157V;Aldaia;153V;Alaquàs;3153
+157V;Aldaia;155V;Manises;349
+157V;Aldaia;161V;Valencia (SCD Campanar);110
+157V;Aldaia;162V;Torrent (distrito 03);305
+157V;Aldaia;163V;Mislata;268
+157V;Aldaia;165V;Paterna;301
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);091V;Valencia (SCD Safranar/Favara);1770
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);712
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);128V;Valencia (SCD Malilla);123
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);130V;Valencia (SCD Arrancapins);155
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);138V;Valencia (SCD Patraix);191
+159V;Ontinyent;039V;Mogente/Moixent y otros municipios;111
+159V;Ontinyent;040V;Aielo de Malferit y otros municipios;247
+159V;Ontinyent;041V;Albaida y otros municipios;951
+159V;Ontinyent;044V;Montaverner y otros municipios;178
+159V;Ontinyent;052V;Bocairent;374
+159V;Ontinyent;067V;Olleria, l';238
+159V;Ontinyent;096V;Canals;140
+159V;Ontinyent;151V;Xàtiva;190
+15CS;Moncofa y Chilches/Xilxes;16CS;Almenara y Llosa, la;247
+15CS;Moncofa y Chilches/Xilxes;17CS;Nules y Vilavella, la;218
+15CS;Moncofa y Chilches/Xilxes;30CS;Vall d'Uixó, la;443
+160V;Burjassot;016V;Riba-roja de Túria y Loriguilla;103
+160V;Burjassot;047V;Llíria y otros municipios;110
+160V;Burjassot;063V;Rocafort;110
+160V;Burjassot;094V;Godella;1026
+160V;Burjassot;097V;Valencia (SCD Poblats de L'Oest);651
+160V;Burjassot;106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);136
+160V;Burjassot;110V;Valencia (SCD Morvedre/Trinitat);126
+160V;Burjassot;111V;Eliana, l';110
+160V;Burjassot;112V;Valencia (SCD Tormos/Sant Antoni);105
+160V;Burjassot;124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);106
+160V;Burjassot;126V;Moncada;144
+160V;Burjassot;129V;Valencia (SCD Ciutat Fallera);201
+160V;Burjassot;130V;Valencia (SCD Arrancapins);112
+160V;Burjassot;133V;Bétera;176
+160V;Burjassot;134V;Valencia (SCD Benicalap);171
+160V;Burjassot;135V;Pobla de Vallbona, la;151
+160V;Burjassot;136V;Alboraya;112
+160V;Burjassot;143V;Valencia (SCD Torrefiel);127
+160V;Burjassot;144V;Valencia (SCD Ciutat Vella);113
+160V;Burjassot;145V;Valencia (SCD Orriols/Sant llorenç);153
+160V;Burjassot;150V;Valencia (SCD Benimaclet);252
+160V;Burjassot;154V;Valencia (SCD El Pla del Real);144
+160V;Burjassot;161V;Valencia (SCD Campanar);264
+160V;Burjassot;163V;Mislata;151
+160V;Burjassot;165V;Paterna;1983
+161V;Valencia (SCD Campanar);016V;Riba-roja de Túria y Loriguilla;138
+161V;Valencia (SCD Campanar);047V;Llíria y otros municipios;135
+161V;Valencia (SCD Campanar);081V;Valencia (SCD Marxalenes);270
+161V;Valencia (SCD Campanar);084V;Valencia (SCD El Botànic/La Roqueta);259
+161V;Valencia (SCD Campanar);091V;Valencia (SCD Safranar/Favara);122
+161V;Valencia (SCD Campanar);094V;Godella;141
+161V;Valencia (SCD Campanar);097V;Valencia (SCD Poblats de L'Oest);302
+161V;Valencia (SCD Campanar);100V;Valencia (SCD La Petxina);411
+161V;Valencia (SCD Campanar);106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);108
+161V;Valencia (SCD Campanar);109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);191
+161V;Valencia (SCD Campanar);110V;Valencia (SCD Morvedre/Trinitat);217
+161V;Valencia (SCD Campanar);111V;Eliana, l';154
+161V;Valencia (SCD Campanar);112V;Valencia (SCD Tormos/Sant Antoni);230
+161V;Valencia (SCD Campanar);115V;Valencia (SCD El Pla del Remei/Gran Via);127
+161V;Valencia (SCD Campanar);116V;Valencia (SCD Mont-Olivet);147
+161V;Valencia (SCD Campanar);118V;Valencia (SCD En Corts/Na Rovella);143
+161V;Valencia (SCD Campanar);119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);205
+161V;Valencia (SCD Campanar);121V;Valencia (SCD Poblats del Sud);123
+161V;Valencia (SCD Campanar);122V;Valencia (SCD Safranar/Vara de Quart);218
+161V;Valencia (SCD Campanar);124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);102
+161V;Valencia (SCD Campanar);126V;Moncada;175
+161V;Valencia (SCD Campanar);128V;Valencia (SCD Malilla);207
+161V;Valencia (SCD Campanar);129V;Valencia (SCD Ciutat Fallera);458
+161V;Valencia (SCD Campanar);130V;Valencia (SCD Arrancapins);211
+161V;Valencia (SCD Campanar);132V;Valencia (SCD Russafa);181
+161V;Valencia (SCD Campanar);133V;Bétera;200
+161V;Valencia (SCD Campanar);134V;Valencia (SCD Benicalap);2612
+161V;Valencia (SCD Campanar);135V;Pobla de Vallbona, la;187
+161V;Valencia (SCD Campanar);136V;Alboraya;181
+161V;Valencia (SCD Campanar);137V;Quart de Poblet;199
+161V;Valencia (SCD Campanar);138V;Valencia (SCD Patraix);267
+161V;Valencia (SCD Campanar);139V;Valencia (SCD Aiora);152
+161V;Valencia (SCD Campanar);140V;Paiporta;189
+161V;Valencia (SCD Campanar);141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);148
+161V;Valencia (SCD Campanar);143V;Valencia (SCD Torrefiel);298
+161V;Valencia (SCD Campanar);144V;Valencia (SCD Ciutat Vella);233
+161V;Valencia (SCD Campanar);145V;Valencia (SCD Orriols/Sant llorenç);217
+161V;Valencia (SCD Campanar);147V;Sueca;102
+161V;Valencia (SCD Campanar);148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);166
+161V;Valencia (SCD Campanar);149V;Catarroja;145
+161V;Valencia (SCD Campanar);150V;Valencia (SCD Benimaclet);222
+161V;Valencia (SCD Campanar);152V;Xirivella;234
+161V;Valencia (SCD Campanar);153V;Alaquàs;139
+161V;Valencia (SCD Campanar);154V;Valencia (SCD El Pla del Real);186
+161V;Valencia (SCD Campanar);155V;Manises;183
+161V;Valencia (SCD Campanar);156V;Valencia (SCD Nou Moles/Soternes);721
+161V;Valencia (SCD Campanar);157V;Aldaia;176
+161V;Valencia (SCD Campanar);158V;Valencia (SCD La Raiosa/L'Hort de Senabre);271
+161V;Valencia (SCD Campanar);160V;Burjassot;674
+161V;Valencia (SCD Campanar);162V;Torrent (distrito 03);189
+161V;Valencia (SCD Campanar);163V;Mislata;1269
+161V;Valencia (SCD Campanar);165V;Paterna;694
+162V;Torrent (distrito 03);045V;Montserrat y Montroi/Montroy;102
+162V;Torrent (distrito 03);074V;Torrent (distrito 02);1420
+162V;Torrent (distrito 03);101V;Torrent (distrito 04);945
+162V;Torrent (distrito 03);114V;Torrent (distrito 01);466
+162V;Torrent (distrito 03);153V;Alaquàs;136
+163V;Mislata;097V;Valencia (SCD Poblats de L'Oest);107
+163V;Mislata;109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);509
+163V;Mislata;137V;Quart de Poblet;543
+163V;Mislata;152V;Xirivella;1936
+163V;Mislata;155V;Manises;136
+163V;Mislata;156V;Valencia (SCD Nou Moles/Soternes);331
+163V;Mislata;161V;Valencia (SCD Campanar);346
+163V;Mislata;165V;Paterna;283
+164V;Alzira;007V;Simat de la Valldigna y Benifairó de la Valldigna;180
+164V;Alzira;009V;Pobla Llarga, la y otros municipios;144
+164V;Alzira;013V;Corbera y otros municipios;331
+164V;Alzira;014V;Albalat de la Ribera y otros municipios;317
+164V;Alzira;030V;Catadau y otros municipios;556
+164V;Alzira;050V;Alberic y otros municipios;391
+164V;Alzira;057V;Guadassuar;244
+164V;Alzira;088V;Alcúdia, l';256
+164V;Alzira;095V;Alginet;145
+164V;Alzira;103V;Carlet;221
+164V;Alzira;107V;Tavernes de la Valldigna;160
+164V;Alzira;123V;Carcaixent;1660
+164V;Alzira;127V;Cullera;277
+164V;Alzira;146V;Algemesí;1339
+164V;Alzira;147V;Sueca;354
+164V;Alzira;151V;Xàtiva;216
+165V;Paterna;015V;Albal y Beniparrell;147
+165V;Paterna;016V;Riba-roja de Túria y Loriguilla;592
+165V;Paterna;017V;Bonrepòs i Mirambell y otros municipios;161
+165V;Paterna;018V;Albuixech y otros municipios;151
+165V;Paterna;029V;Chiva y Godelleta;242
+165V;Paterna;046V;Alfafar y Llocnou de la Corona;209
+165V;Paterna;047V;Llíria y otros municipios;425
+165V;Paterna;058V;Náquera;116
+165V;Paterna;059V;Valencia (SCD Poblats del Nord);173
+165V;Paterna;063V;Rocafort;139
+165V;Paterna;064V;Almàssera;119
+165V;Paterna;066V;Pobla de Farnals, la;111
+165V;Paterna;069V;Puig de Santa Maria, el;124
+165V;Paterna;070V;San Antonio de Benagéber;386
+165V;Paterna;073V;Tavernes Blanques;123
+165V;Paterna;078V;Vilamarxant;171
+165V;Paterna;081V;Valencia (SCD Marxalenes);171
+165V;Paterna;082V;Meliana;139
+165V;Paterna;083V;Benaguasil;203
+165V;Paterna;084V;Valencia (SCD El Botànic/La Roqueta);165
+165V;Paterna;085V;Picanya;162
+165V;Paterna;090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);147
+165V;Paterna;091V;Valencia (SCD Safranar/Favara);167
+165V;Paterna;092V;Valencia (SCD La Malva-rosa);108
+165V;Paterna;094V;Godella;578
+165V;Paterna;097V;Valencia (SCD Poblats de L'Oest);765
+165V;Paterna;098V;Benetússer;125
+165V;Paterna;099V;Valencia (SCD La Creu del Grau);225
+165V;Paterna;100V;Valencia (SCD La Petxina);235
+165V;Paterna;101V;Torrent (distrito 04);190
+165V;Paterna;102V;Valencia (SCD El Grau/Natzaret);130
+165V;Paterna;104V;Massamagrell;182
+165V;Paterna;106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);185
+165V;Paterna;109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);213
+165V;Paterna;110V;Valencia (SCD Morvedre/Trinitat);247
+165V;Paterna;111V;Eliana, l';584
+165V;Paterna;112V;Valencia (SCD Tormos/Sant Antoni);326
+165V;Paterna;113V;Silla;137
+165V;Paterna;114V;Torrent (distrito 01);124
+165V;Paterna;115V;Valencia (SCD El Pla del Remei/Gran Via);225
+165V;Paterna;116V;Valencia (SCD Mont-Olivet);206
+165V;Paterna;117V;Puçol;242
+165V;Paterna;118V;Valencia (SCD En Corts/Na Rovella);208
+165V;Paterna;119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);283
+165V;Paterna;121V;Valencia (SCD Poblats del Sud);245
+165V;Paterna;122V;Valencia (SCD Safranar/Vara de Quart);274
+165V;Paterna;124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);251
+165V;Paterna;125V;Picassent;149
+165V;Paterna;126V;Moncada;330
+165V;Paterna;128V;Valencia (SCD Malilla);257
+165V;Paterna;129V;Valencia (SCD Ciutat Fallera);481
+165V;Paterna;130V;Valencia (SCD Arrancapins);349
+165V;Paterna;131V;Sagunto/Sagunt (distrito 07);144
+165V;Paterna;132V;Valencia (SCD Russafa);302
+165V;Paterna;133V;Bétera;962
+165V;Paterna;134V;Valencia (SCD Benicalap);507
+165V;Paterna;135V;Pobla de Vallbona, la;674
+165V;Paterna;136V;Alboraya;376
+165V;Paterna;137V;Quart de Poblet;1201
+165V;Paterna;138V;Valencia (SCD Patraix);404
+165V;Paterna;139V;Valencia (SCD Aiora);264
+165V;Paterna;140V;Paiporta;387
+165V;Paterna;141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);337
+165V;Paterna;143V;Valencia (SCD Torrefiel);341
+165V;Paterna;144V;Valencia (SCD Ciutat Vella);290
+165V;Paterna;145V;Valencia (SCD Orriols/Sant llorenç);396
+165V;Paterna;147V;Sueca;101
+165V;Paterna;148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);289
+165V;Paterna;149V;Catarroja;285
+165V;Paterna;150V;Valencia (SCD Benimaclet);458
+165V;Paterna;152V;Xirivella;435
+165V;Paterna;153V;Alaquàs;334
+165V;Paterna;154V;Valencia (SCD El Pla del Real);382
+165V;Paterna;155V;Manises;2132
+165V;Paterna;156V;Valencia (SCD Nou Moles/Soternes);461
+165V;Paterna;157V;Aldaia;464
+165V;Paterna;158V;Valencia (SCD La Raiosa/L'Hort de Senabre);448
+165V;Paterna;160V;Burjassot;1304
+165V;Paterna;161V;Valencia (SCD Campanar);830
+165V;Paterna;162V;Torrent (distrito 03);426
+165V;Paterna;163V;Mislata;802
+16CS;Almenara y Llosa, la;021V;Benifairó de les Valls y otros municipios;130
+16CS;Almenara y Llosa, la;15CS;Moncofa y Chilches/Xilxes;144
+17CS;Nules y Vilavella, la;15CS;Moncofa y Chilches/Xilxes;442
+17CS;Nules y Vilavella, la;20CS;Almazora/Almassora;101
+17CS;Nules y Vilavella, la;24CS;Borriana/Burriana;424
+17CS;Nules y Vilavella, la;30CS;Vall d'Uixó, la;970
+17CS;Nules y Vilavella, la;41CS;Vila-real (distrito 02);138
+18CS;Alcalà de Xivert;29CS;Torreblanca;366
+19CS;Alcora, l';08CS;Lucena del Cid y otros municipios;165
+19CS;Alcora, l';13CS;Borriol y otros municipios;319
+19CS;Alcora, l';20CS;Almazora/Almassora;199
+19CS;Alcora, l';23CS;Benicasim/Benicàssim;102
+19CS;Alcora, l';24CS;Borriana/Burriana;128
+19CS;Alcora, l';25CS;Onda;327
+19CS;Alcora, l';34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);196
+19CS;Alcora, l';35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);213
+19CS;Alcora, l';36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);262
+19CS;Alcora, l';37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);141
+19CS;Alcora, l';38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);140
+19CS;Alcora, l';41CS;Vila-real (distrito 02);174
+20CS;Almazora/Almassora;13CS;Borriol y otros municipios;109
+20CS;Almazora/Almassora;14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);184
+20CS;Almazora/Almassora;17CS;Nules y Vilavella, la;160
+20CS;Almazora/Almassora;23CS;Benicasim/Benicàssim;225
+20CS;Almazora/Almassora;24CS;Borriana/Burriana;503
+20CS;Almazora/Almassora;25CS;Onda;140
+20CS;Almazora/Almassora;30CS;Vall d'Uixó, la;153
+20CS;Almazora/Almassora;33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);206
+20CS;Almazora/Almassora;34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);617
+20CS;Almazora/Almassora;35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);334
+20CS;Almazora/Almassora;36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);863
+20CS;Almazora/Almassora;37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);414
+20CS;Almazora/Almassora;38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);241
+20CS;Almazora/Almassora;39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);373
+20CS;Almazora/Almassora;41CS;Vila-real (distrito 02);1281
+20CS;Almazora/Almassora;42CS;Vila-real (distrito 03);311
+20CS;Almazora/Almassora;43CS;Vila-real (distrito 04);109
+21CS;Betxí;24CS;Borriana/Burriana;133
+21CS;Betxí;25CS;Onda;111
+22CS;Benicarló;03CS;Càlig y otros municipios;392
+22CS;Benicarló;27CS;Peníscola/Peñíscola;429
+22CS;Benicarló;31CS;Vinaròs;859
+23CS;Benicasim/Benicàssim;20CS;Almazora/Almassora;104
+23CS;Benicasim/Benicàssim;33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);124
+23CS;Benicasim/Benicàssim;34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);119
+23CS;Benicasim/Benicàssim;36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);159
+23CS;Benicasim/Benicàssim;37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);265
+23CS;Benicasim/Benicàssim;38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);105
+23CS;Benicasim/Benicàssim;39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);199
+24CS;Borriana/Burriana;17CS;Nules y Vilavella, la;413
+24CS;Borriana/Burriana;20CS;Almazora/Almassora;224
+24CS;Borriana/Burriana;30CS;Vall d'Uixó, la;137
+24CS;Borriana/Burriana;32CS;Alquerías del Niño Perdido;357
+24CS;Borriana/Burriana;41CS;Vila-real (distrito 02);255
+24CS;Borriana/Burriana;43CS;Vila-real (distrito 04);123
+25CS;Onda;08CS;Lucena del Cid y otros municipios;293
+25CS;Onda;10CS;Artana y otros municipios;376
+25CS;Onda;13CS;Borriol y otros municipios;107
+25CS;Onda;17CS;Nules y Vilavella, la;238
+25CS;Onda;19CS;Alcora, l';180
+25CS;Onda;20CS;Almazora/Almassora;342
+25CS;Onda;21CS;Betxí;624
+25CS;Onda;23CS;Benicasim/Benicàssim;168
+25CS;Onda;24CS;Borriana/Burriana;487
+25CS;Onda;30CS;Vall d'Uixó, la;273
+25CS;Onda;33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);140
+25CS;Onda;34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);281
+25CS;Onda;35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);231
+25CS;Onda;36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);390
+25CS;Onda;37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);224
+25CS;Onda;38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);181
+25CS;Onda;39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);120
+25CS;Onda;41CS;Vila-real (distrito 02);626
+25CS;Onda;42CS;Vila-real (distrito 03);328
+25CS;Onda;43CS;Vila-real (distrito 04);198
+26CS;Oropesa del Mar/Orpesa;05CS;Cabanes y otros municipios;191
+26CS;Oropesa del Mar/Orpesa;06CS;Vall d'Alba y otros municipios;150
+26CS;Oropesa del Mar/Orpesa;23CS;Benicasim/Benicàssim;302
+27CS;Peníscola/Peñíscola;03CS;Càlig y otros municipios;196
+27CS;Peníscola/Peñíscola;22CS;Benicarló;949
+27CS;Peníscola/Peñíscola;31CS;Vinaròs;186
+28CS;Segorbe;023V;Estivella y otros municipios;118
+28CS;Segorbe;09CS;Soneja y otros municipios;306
+28CS;Segorbe;11CS;Altura y otros municipios;848
+30CS;Vall d'Uixó, la;15CS;Moncofa y Chilches/Xilxes;467
+30CS;Vall d'Uixó, la;16CS;Almenara y Llosa, la;148
+30CS;Vall d'Uixó, la;17CS;Nules y Vilavella, la;256
+30CS;Vall d'Uixó, la;24CS;Borriana/Burriana;150
+31CS;Vinaròs;02CS;Traiguera y otros municipios;158
+31CS;Vinaròs;03CS;Càlig y otros municipios;159
+31CS;Vinaròs;22CS;Benicarló;829
+31CS;Vinaròs;27CS;Peníscola/Peñíscola;105
+31CS;Vinaròs;34TA;Alcanar;788
+32CS;Alquerías del Niño Perdido;24CS;Borriana/Burriana;967
+32CS;Alquerías del Niño Perdido;41CS;Vila-real (distrito 02);100
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);275
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);20CS;Almazora/Almassora;205
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);23CS;Benicasim/Benicàssim;398
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);24CS;Borriana/Burriana;166
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);1364
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);231
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);444
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);1466
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);193
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);292
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);41CS;Vila-real (distrito 02);102
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);274
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);20CS;Almazora/Almassora;288
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);23CS;Benicasim/Benicàssim;507
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);24CS;Borriana/Burriana;118
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);1783
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);432
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);2275
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);363
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);181
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);293
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);13CS;Borriol y otros municipios;548
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);1658
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);19CS;Alcora, l';110
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);20CS;Almazora/Almassora;437
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);23CS;Benicasim/Benicàssim;348
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);24CS;Borriana/Burriana;200
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);25CS;Onda;304
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);354
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);866
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);1291
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);375
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);516
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);238
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);41CS;Vila-real (distrito 02);190
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);13CS;Borriol y otros municipios;219
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);355
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);19CS;Alcora, l';104
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);20CS;Almazora/Almassora;960
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);23CS;Benicasim/Benicàssim;370
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);24CS;Borriana/Burriana;326
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);25CS;Onda;159
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);30CS;Vall d'Uixó, la;139
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);367
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);2726
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);1492
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);544
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);498
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);510
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);41CS;Vila-real (distrito 02);401
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);13CS;Borriol y otros municipios;153
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);451
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);17CS;Nules y Vilavella, la;100
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);20CS;Almazora/Almassora;486
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);23CS;Benicasim/Benicàssim;650
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);24CS;Borriana/Burriana;238
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);25CS;Onda;105
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);30CS;Vall d'Uixó, la;104
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);1054
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);1341
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);452
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);720
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);743
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);807
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);41CS;Vila-real (distrito 02);199
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);13CS;Borriol y otros municipios;191
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);1053
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);17CS;Nules y Vilavella, la;131
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);20CS;Almazora/Almassora;470
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);23CS;Benicasim/Benicàssim;413
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);24CS;Borriana/Burriana;391
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);25CS;Onda;175
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);30CS;Vall d'Uixó, la;194
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);513
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);778
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);886
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);950
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);1708
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);421
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);41CS;Vila-real (distrito 02);329
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);128
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);20CS;Almazora/Almassora;355
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);23CS;Benicasim/Benicàssim;316
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);24CS;Borriana/Burriana;121
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);299
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);505
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);199
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);427
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);876
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);201
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);41CS;Vila-real (distrito 02);104
+40CS;Vila-real (distrito 01);24CS;Borriana/Burriana;112
+40CS;Vila-real (distrito 01);41CS;Vila-real (distrito 02);197
+40CS;Vila-real (distrito 01);42CS;Vila-real (distrito 03);102
+40CS;Vila-real (distrito 01);43CS;Vila-real (distrito 04);352
+41CS;Vila-real (distrito 02);20CS;Almazora/Almassora;930
+41CS;Vila-real (distrito 02);24CS;Borriana/Burriana;297
+41CS;Vila-real (distrito 02);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);204
+41CS;Vila-real (distrito 02);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);115
+41CS;Vila-real (distrito 02);40CS;Vila-real (distrito 01);1049
+41CS;Vila-real (distrito 02);42CS;Vila-real (distrito 03);1240
+41CS;Vila-real (distrito 02);43CS;Vila-real (distrito 04);815
+42CS;Vila-real (distrito 03);20CS;Almazora/Almassora;324
+42CS;Vila-real (distrito 03);21CS;Betxí;175
+42CS;Vila-real (distrito 03);24CS;Borriana/Burriana;334
+42CS;Vila-real (distrito 03);25CS;Onda;116
+42CS;Vila-real (distrito 03);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);106
+42CS;Vila-real (distrito 03);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);166
+42CS;Vila-real (distrito 03);40CS;Vila-real (distrito 01);255
+42CS;Vila-real (distrito 03);41CS;Vila-real (distrito 02);784
+42CS;Vila-real (distrito 03);43CS;Vila-real (distrito 04);316
+43CS;Vila-real (distrito 04);17CS;Nules y Vilavella, la;191
+43CS;Vila-real (distrito 04);20CS;Almazora/Almassora;350
+43CS;Vila-real (distrito 04);21CS;Betxí;114
+43CS;Vila-real (distrito 04);24CS;Borriana/Burriana;786
+43CS;Vila-real (distrito 04);25CS;Onda;162
+43CS;Vila-real (distrito 04);30CS;Vall d'Uixó, la;244
+43CS;Vila-real (distrito 04);32CS;Alquerías del Niño Perdido;105
+43CS;Vila-real (distrito 04);33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);113
+43CS;Vila-real (distrito 04);34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);220
+43CS;Vila-real (distrito 04);35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);125
+43CS;Vila-real (distrito 04);36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);239
+43CS;Vila-real (distrito 04);37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);132
+43CS;Vila-real (distrito 04);40CS;Vila-real (distrito 01);831
+43CS;Vila-real (distrito 04);41CS;Vila-real (distrito 02);1390
+43CS;Vila-real (distrito 04);42CS;Vila-real (distrito 03);1655
